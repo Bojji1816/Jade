@@ -1,7 +1,7 @@
 # 時尚翡翠珠寶品牌 - 專案簡介
 
-最後更新：2026-07-13
-狀態：Draft v0.2
+最後更新：2026-08-07
+狀態：Draft v0.5
 
 ## 核心方向
 
@@ -11,6 +11,14 @@
 
 ## 已確認定位
 
+- 品牌名：`COMETA`。
+- Instagram handle：`@cometa.jade`。
+- 品牌核心文案：`Jade, in a new light.` / `讓翡翠，以新的光走進日常。`
+- 暫定 Logo：深墨綠手寫 `Cometa` 字標，capital `C` 內加入淡玉色彗星筆觸；Instagram 頭像使用完整字標。
+- Logo 概念稿：`output/brand/logo-concepts/cometa-jade-ink-book-box-refined.png`。
+- Instagram Logo：`output/brand/final-assets/cometa-instagram-profile-1080.png`（1080 x 1080）。
+- 品牌 Banner：`output/brand/final-assets/cometa-banner-1920x640.png`（1920 x 640）。
+- 包裝狀態：現有概念只作保留，結構及視覺稍後再調整，未作生產定案。
 - 品牌風格：現代簡約、日常高質感。
 - 主力客人：女性自用。
 - 重要場景：女朋友買給男朋友/伴侶、情侶送禮、日常配襯。
@@ -52,3 +60,8 @@
 - `03-decisions-log.md`：已確認決策和原因。
 - `04-open-questions.md`：下一步要決定的問題。
 - `05-competitor-research.md`：競品研究和可參考策略。
+- `06-instagram-shop-plan.md`：小批量 IG 啟動、內容、銷售流程和決策清單。
+- `07-packaging-design.md`：包裝定位、物品清單、已確認決策、採購及測試項目。
+- `08-instagram-account-setup.md`：COMETA Instagram 開帳設定 SOP、置頂帖、Highlights 和銷售流程。
+- `09-setting-materials-guide.md`：鑲嵌金屬、S925、鍍金、PVD、vermeil、K 金和對客材質披露筆記。
+- `10-purchasing-checklist.md`：入貨前快速判斷產品方向、加工風險、成本和是否符合 COMETA 風格。

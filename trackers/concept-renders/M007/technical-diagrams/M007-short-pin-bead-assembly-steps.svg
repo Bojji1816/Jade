@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100">
+  <defs>
+    <linearGradient id="silver" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.35" stop-color="#cfd4d7"/>
+      <stop offset="0.7" stop-color="#7e878d"/>
+      <stop offset="1" stop-color="#f5f7f8"/>
+    </linearGradient>
+    <radialGradient id="jade" cx="35%" cy="28%" r="70%">
+      <stop offset="0" stop-color="#f8ffff"/>
+      <stop offset="0.45" stop-color="#dcebed"/>
+      <stop offset="0.78" stop-color="#aebdc2"/>
+      <stop offset="1" stop-color="#819099"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#1c2529" flood-opacity="0.16"/>
+    </filter>
+    <style>
+      .bg { fill: #f7f6f2; }
+      .panel { fill: #ffffff; stroke: #d8d5cf; stroke-width: 2; rx: 16; }
+      .title { font: 700 34px -apple-system, BlinkMacSystemFont, "PingFang HK", "Noto Sans CJK TC", Arial, sans-serif; fill: #1f2527; }
+      .subtitle { font: 500 21px -apple-system, BlinkMacSystemFont, "PingFang HK", "Noto Sans CJK TC", Arial, sans-serif; fill: #5d6468; }
+      .stepTitle { font: 700 25px -apple-system, BlinkMacSystemFont, "PingFang HK", "Noto Sans CJK TC", Arial, sans-serif; fill: #23282a; }
+      .label { font: 500 18px -apple-system, BlinkMacSystemFont, "PingFang HK", "Noto Sans CJK TC", Arial, sans-serif; fill: #42494d; }
+      .note { font: 500 16px -apple-system, BlinkMacSystemFont, "PingFang HK", "Noto Sans CJK TC", Arial, sans-serif; fill: #677075; }
+      .pin { stroke: url(#silver); stroke-width: 9; stroke-linecap: round; }
+      .chain { fill: none; stroke: #9aa1a5; stroke-width: 4; stroke-linecap: round; stroke-dasharray: 2 10; }
+      .thinChain { fill: none; stroke: #81898e; stroke-width: 3.2; stroke-linecap: round; stroke-dasharray: 1 8; }
+      .arrow { fill: none; stroke: #747b80; stroke-width: 3; marker-end: url(#arrow); }
+      .guide { stroke: #c4c9cc; stroke-width: 2; stroke-dasharray: 7 7; }
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#747b80"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="1100"/>
+  <text x="80" y="80" class="title">M007 短銀針固定銀珠結構</text>
+  <text x="80" y="118" class="subtitle">做法：一支短銀針穿住「細銀珠 + 扁小玉珠 + 細銀珠」，兩端再接銀鏈，令三粒珠位置固定。</text>
+
+  <g transform="translate(70,170)">
+    <rect class="panel" width="450" height="360" filter="url(#shadow)"/>
+    <text x="34" y="52" class="stepTitle">1. 準備短銀針</text>
+    <text x="34" y="84" class="note">銀針長度只預留剛好穿過三粒珠。</text>
+    <line x1="80" y1="205" x2="370" y2="205" class="pin"/>
+    <circle cx="80" cy="205" r="9" fill="url(#silver)"/>
+    <circle cx="370" cy="205" r="9" fill="url(#silver)"/>
+    <line x1="80" y1="242" x2="370" y2="242" class="guide"/>
+    <text x="148" y="278" class="label">短、直、不要外露太長</text>
+  </g>
+
+  <g transform="translate(575,170)">
+    <rect class="panel" width="450" height="360" filter="url(#shadow)"/>
+    <text x="34" y="52" class="stepTitle">2. 先穿第一粒細銀珠</text>
+    <text x="34" y="84" class="note">銀珠做細一點，只負責定位和收口。</text>
+    <line x1="78" y1="205" x2="365" y2="205" class="pin"/>
+    <circle cx="155" cy="205" r="18" fill="url(#silver)" stroke="#eef1f2" stroke-width="2"/>
+    <path d="M250 154 C285 172 285 236 250 255" class="arrow"/>
+    <text x="150" y="278" class="label">細銀珠貼近小玉珠一邊</text>
+  </g>
+
+  <g transform="translate(1080,170)">
+    <rect class="panel" width="450" height="360" filter="url(#shadow)"/>
+    <text x="34" y="52" class="stepTitle">3. 穿入扁身小玉珠</text>
+    <text x="34" y="84" class="note">小玉珠保持薄身，視覺上會輕巧啲。</text>
+    <line x1="72" y1="205" x2="374" y2="205" class="pin"/>
+    <circle cx="147" cy="205" r="16" fill="url(#silver)" stroke="#eef1f2" stroke-width="2"/>
+    <ellipse cx="225" cy="205" rx="44" ry="31" fill="url(#jade)" stroke="#eff7f8" stroke-width="3"/>
+    <ellipse cx="212" cy="195" rx="16" ry="8" fill="#ffffff" opacity="0.55"/>
+    <path d="M315 154 C350 172 350 236 315 255" class="arrow"/>
+    <text x="130" y="278" class="label">銀珠不要搶走小玉珠比例</text>
+  </g>
+
+  <g transform="translate(215,600)">
+    <rect class="panel" width="520" height="390" filter="url(#shadow)"/>
+    <text x="34" y="52" class="stepTitle">4. 穿第二粒細銀珠，兩邊貼住</text>
+    <text x="34" y="84" class="note">兩粒細銀珠剛剛好夾住小玉珠，位置就唔會走。</text>
+    <line x1="88" y1="222" x2="430" y2="222" class="pin"/>
+    <circle cx="185" cy="222" r="17" fill="url(#silver)" stroke="#eef1f2" stroke-width="2"/>
+    <ellipse cx="260" cy="222" rx="48" ry="32" fill="url(#jade)" stroke="#eff7f8" stroke-width="3"/>
+    <circle cx="335" cy="222" r="17" fill="url(#silver)" stroke="#eef1f2" stroke-width="2"/>
+    <path d="M184 273 L184 246" class="arrow"/>
+    <path d="M336 273 L336 246" class="arrow"/>
+    <text x="125" y="316" class="label">兩邊銀珠細而貼身</text>
+    <text x="145" y="344" class="note">可用壓珠、焊點或銀針收口固定</text>
+  </g>
+
+  <g transform="translate(815,600)">
+    <rect class="panel" width="570" height="390" filter="url(#shadow)"/>
+    <text x="34" y="52" class="stepTitle">5. 兩端接銀鏈，成為耳線吊墜結構</text>
+    <text x="34" y="84" class="note">銀針兩端做小圈或焊接位，再連接上方耳線鏈和下方玉圈。</text>
+    <path d="M285 116 C250 150 248 183 284 214" class="thinChain"/>
+    <line x1="185" y1="220" x2="385" y2="220" class="pin"/>
+    <circle cx="225" cy="220" r="15" fill="url(#silver)" stroke="#eef1f2" stroke-width="2"/>
+    <ellipse cx="285" cy="220" rx="41" ry="28" fill="url(#jade)" stroke="#eff7f8" stroke-width="3"/>
+    <circle cx="345" cy="220" r="15" fill="url(#silver)" stroke="#eef1f2" stroke-width="2"/>
+    <path d="M285 246 C286 276 286 288 286 303" class="thinChain"/>
+    <circle cx="286" cy="338" r="76" fill="url(#jade)" stroke="#f8ffff" stroke-width="5"/>
+    <circle cx="286" cy="338" r="33" fill="#ffffff" stroke="#d3dde0" stroke-width="2"/>
+    <ellipse cx="248" cy="296" rx="43" ry="12" fill="#ffffff" opacity="0.62" transform="rotate(-33 248 296)"/>
+    <path d="M204 112 L184 220" class="chain"/>
+    <path d="M385 220 L430 112" class="chain"/>
+    <text x="92" y="338" class="label">上接耳線鏈</text>
+    <text x="378" y="338" class="label">下接玉圈</text>
+  </g>
+
+  <g transform="translate(80,1028)">
+    <text class="note" x="0" y="0">建議：M007 用「短銀針 + 細銀珠夾扁小玉珠」會比直接穿鏈更穩，亦可以保持成品圖嗰種幼細、乾淨、會郁動嘅感覺。</text>
+  </g>
+</svg>

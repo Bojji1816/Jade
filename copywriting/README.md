@@ -11,11 +11,10 @@
 
 - `purchase-notes.md`：翡翠購買須知
 - `care-notes.md`：翡翠保養須知
+- `instagram-launch-kit.md`：Instagram Bio、置頂帖、Highlights 和 DM/WhatsApp 回覆
 
 ## 待整理版本
 
 - 網站正式版
-- Instagram highlight 短版
 - 商品頁精簡版
 - 包裝卡短版
-- 客服快速回覆版

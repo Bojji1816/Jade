@@ -1,6 +1,6 @@
 # 時尚翡翠珠寶品牌 Codex Project
 
-最後更新：2026-07-14
+最後更新：2026-08-07
 狀態：Active project
 
 ## Project Purpose
@@ -28,11 +28,17 @@ work/jade-jewelry-business/
 │   ├── 02-weekly-task-tracker.md
 │   ├── 03-decisions-log.md
 │   ├── 04-open-questions.md
-│   └── 05-competitor-research.md
+│   ├── 05-competitor-research.md
+│   ├── 06-instagram-shop-plan.md
+│   ├── 07-packaging-design.md
+│   ├── 08-instagram-account-setup.md
+│   ├── 09-setting-materials-guide.md
+│   └── 10-purchasing-checklist.md
 ├── copywriting/
 │   ├── README.md
 │   ├── purchase-notes.md
-│   └── care-notes.md
+│   ├── care-notes.md
+│   └── instagram-launch-kit.md
 ├── templates/
 │   ├── material-inventory-template.md
 │   ├── product-sku-template.md
@@ -52,13 +58,16 @@ work/jade-jewelry-business/
 5. Record major business decisions in `knowledge-base/03-decisions-log.md`.
 6. Add competitor notes to `knowledge-base/05-competitor-research.md`.
 7. Manage reusable brand copy in `copywriting/`.
+8. Use `knowledge-base/08-instagram-account-setup.md` and `copywriting/instagram-launch-kit.md` to set up `@cometa.jade`.
+9. Use `knowledge-base/09-setting-materials-guide.md` when deciding S925, gold plating, PVD, vermeil, K gold, and product material disclosure.
+10. Use `knowledge-base/10-purchasing-checklist.md` before buying new jadeite material.
 
 ## Current Priority
 
-Month 1:
+Month 2:
 
-- Record the first 10 pieces of Sihui jadeite material.
-- Build purchasing and finished-product QC checklists.
-- Get processing quotes.
-- Create competitor research and brand mood direction.
-- Prepare second buying trip checklist.
+- Finish QC checks for M001-M012.
+- Confirm processing timeline, minimum order requirements, and loss risk.
+- Decide silver or gold-plated S925 for each launch candidate.
+- Select the first 3-5 launch SKU candidates.
+- Prepare FAQ, delivery, care, return, and defect handling copy.

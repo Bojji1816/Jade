@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1600" viewBox="0 0 1600 1600">
+  <defs>
+    <style>
+      .bg { fill: #f7f8f5; }
+      .panel { fill: #ffffff; stroke: #cfd6d0; stroke-width: 2; }
+      .title { font: 700 42px Arial, "PingFang HK", "Microsoft JhengHei", sans-serif; fill: #25312d; }
+      .sub { font: 400 24px Arial, "PingFang HK", "Microsoft JhengHei", sans-serif; fill: #5b6661; }
+      .h { font: 700 28px Arial, "PingFang HK", "Microsoft JhengHei", sans-serif; fill: #25312d; }
+      .label { font: 400 22px Arial, "PingFang HK", "Microsoft JhengHei", sans-serif; fill: #25312d; }
+      .small { font: 400 18px Arial, "PingFang HK", "Microsoft JhengHei", sans-serif; fill: #5b6661; }
+      .metal { fill: #d9dddc; stroke: #8b9692; stroke-width: 5; }
+      .metal-dark { fill: none; stroke: #8b9692; stroke-width: 8; stroke-linecap: round; }
+      .metal-line { fill: none; stroke: #8b9692; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+      .jade { fill: #d8ebe6; stroke: #93aaa2; stroke-width: 4; }
+      .jade-vein { fill: none; stroke: #8fa7a0; stroke-width: 3; opacity: .55; }
+      .dim { fill: none; stroke: #6f7b76; stroke-width: 3; marker-start: url(#arrow); marker-end: url(#arrow); }
+      .call { fill: none; stroke: #50615a; stroke-width: 3; marker-end: url(#arrow); }
+      .dash { fill: none; stroke: #9aa39f; stroke-width: 3; stroke-dasharray: 10 10; }
+      .warn { fill: #f2eee7; stroke: #c7b89d; stroke-width: 2; }
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto">
+      <path d="M 0 0 L 12 6 L 0 12 z" fill="#50615a"/>
+    </marker>
+    <linearGradient id="jadeGrad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#eef7f4"/>
+      <stop offset=".55" stop-color="#d5e9e4"/>
+      <stop offset="1" stop-color="#b9d2cb"/>
+    </linearGradient>
+    <linearGradient id="silverGrad" x1="0" x2="1">
+      <stop offset="0" stop-color="#f4f5f4"/>
+      <stop offset=".45" stop-color="#cbd1cf"/>
+      <stop offset="1" stop-color="#f7f8f7"/>
+    </linearGradient>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1600" height="1600"/>
+  <text class="title" x="80" y="85">M004 CAD-style 設計圖</text>
+  <text class="sub" x="80" y="125">主推：925 銀 half bezel + visible micro prongs 迷你如意戒指</text>
+  <text class="sub" x="80" y="158">玉件：約 9.3 x 6.8 x 2.8mm。重點：薄件不能只靠包邊夾力，需加爪位及底托。</text>
+
+  <rect class="panel" x="70" y="205" width="690" height="560" rx="8"/>
+  <text class="h" x="105" y="255">正面 Front View</text>
+
+  <!-- ring shank -->
+  <ellipse cx="420" cy="525" rx="185" ry="120" fill="none" stroke="url(#silverGrad)" stroke-width="26"/>
+  <ellipse cx="420" cy="525" rx="150" ry="92" fill="none" stroke="#ffffff" stroke-width="10" opacity=".75"/>
+
+  <!-- bezel seat and jade -->
+  <path class="metal" d="M346 433 C384 386 455 389 493 434 C522 468 518 525 482 557 C441 593 368 588 337 548 C309 513 314 472 346 433 Z"/>
+  <path class="jade" fill="url(#jadeGrad)" d="M362 444 C394 411 448 411 478 445 C504 474 501 516 471 541 C437 569 380 564 354 533 C332 506 335 472 362 444 Z"/>
+  <path class="jade-vein" d="M379 462 C407 476 416 500 443 520"/>
+  <path class="jade-vein" d="M452 448 C430 466 415 487 393 531"/>
+
+  <!-- visible prongs -->
+  <circle cx="346" cy="494" r="13" fill="#f7f8f7" stroke="#87928e" stroke-width="4"/>
+  <circle cx="492" cy="494" r="13" fill="#f7f8f7" stroke="#87928e" stroke-width="4"/>
+  <circle cx="421" cy="424" r="10" fill="#f7f8f7" stroke="#87928e" stroke-width="4"/>
+  <circle cx="420" cy="554" r="10" fill="#f7f8f7" stroke="#87928e" stroke-width="4"/>
+
+  <!-- partial bezel lip -->
+  <path class="metal-line" d="M356 452 C386 417 451 419 480 455"/>
+  <path class="metal-line" d="M353 535 C381 568 449 570 476 538"/>
+
+  <line class="call" x1="505" y1="493" x2="585" y2="410"/>
+  <text class="label" x="592" y="410">左右側爪</text>
+  <text class="small" x="592" y="438">扣住玉邊，防止滑出</text>
+
+  <line class="call" x1="421" y1="424" x2="560" y2="315"/>
+  <text class="label" x="568" y="315">上下微爪</text>
+  <text class="small" x="568" y="343">細圓珠爪，避免厚重</text>
+
+  <line class="call" x1="363" y1="444" x2="130" y2="360"/>
+  <text class="label" x="108" y="342">半包邊承托</text>
+  <text class="small" x="108" y="370">bezel lip 微微覆蓋邊緣</text>
+
+  <line class="dim" x1="315" y1="650" x2="525" y2="650"/>
+  <text class="small" x="368" y="685">約 9.3mm 長</text>
+  <line class="dim" x1="270" y1="431" x2="270" y2="558"/>
+  <text class="small" x="160" y="500">約 6.8mm 闊</text>
+
+  <rect class="panel" x="820" y="205" width="700" height="310" rx="8"/>
+  <text class="h" x="855" y="255">側面 Side View</text>
+
+  <path class="metal-dark" d="M950 398 C1025 340 1135 340 1210 398"/>
+  <rect x="1035" y="310" width="95" height="43" rx="20" fill="url(#jadeGrad)" stroke="#93aaa2" stroke-width="4"/>
+  <path class="metal-line" d="M1024 355 L1141 355"/>
+  <path class="metal-line" d="M1030 308 C1057 296 1105 296 1133 308"/>
+  <circle cx="1030" cy="333" r="9" fill="#f7f8f7" stroke="#87928e" stroke-width="3"/>
+  <circle cx="1134" cy="333" r="9" fill="#f7f8f7" stroke="#87928e" stroke-width="3"/>
+
+  <line class="call" x1="1084" y1="355" x2="1250" y2="440"/>
+  <text class="label" x="1262" y="445">薄底托 / open-back 可選</text>
+  <text class="small" x="1262" y="473">托住底部，減少只靠爪力</text>
+
+  <line class="dim" x1="1160" y1="309" x2="1160" y2="354"/>
+  <text class="small" x="1178" y="338">約 2.8mm 厚</text>
+
+  <line class="call" x1="950" y1="398" x2="878" y2="460"/>
+  <text class="label" x="855" y="480">幼身 925 銀戒臂</text>
+  <text class="small" x="855" y="508">保持輕盈，戒面先做視覺焦點</text>
+
+  <rect class="panel" x="820" y="560" width="700" height="205" rx="8"/>
+  <text class="h" x="855" y="610">截面 Section</text>
+  <rect x="940" y="658" width="220" height="36" rx="14" fill="url(#jadeGrad)" stroke="#93aaa2" stroke-width="4"/>
+  <path class="metal-line" d="M924 654 L950 640 L950 694 L924 706"/>
+  <path class="metal-line" d="M1176 654 L1150 640 L1150 694 L1176 706"/>
+  <path class="metal-line" d="M952 704 L1148 704"/>
+  <text class="small" x="900" y="735">金屬 lip 要壓住玉面邊緣，不只是外框</text>
+  <line class="call" x1="950" y1="640" x2="865" y2="645"/>
+  <text class="label" x="855" y="676">壓邊 lip</text>
+  <line class="call" x1="1050" y1="704" x2="1265" y2="708"/>
+  <text class="label" x="1275" y="715">底托</text>
+
+  <rect class="warn" x="70" y="820" width="1450" height="190" rx="8"/>
+  <text class="h" x="105" y="870">加工備註</text>
+  <text class="label" x="105" y="918">1. M004 玉件細而薄，02 款不可只用半包邊夾住；要明確要求「半包邊 + 左右側爪 + 上下微爪 / 珠爪」。</text>
+  <text class="label" x="105" y="958">2. 底部建議加薄底托或 open-back 底托，既可固定又可保留透光感；爪位要拋圓，避免刮手或勾衫。</text>
+  <text class="label" x="105" y="998">3. 報價時要求工場提供正面、側面、底部三視圖，確認爪位、包邊厚度、戒臂焊接點及石位高度。</text>
+</svg>
