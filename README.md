@@ -33,7 +33,9 @@ work/jade-jewelry-business/
 │   ├── 07-packaging-design.md
 │   ├── 08-instagram-account-setup.md
 │   ├── 09-setting-materials-guide.md
-│   └── 10-purchasing-checklist.md
+│   ├── 10-purchasing-checklist.md
+│   ├── 11-主題構思.md
+│   └── 12-finished-product-qc-checklist.md
 ├── copywriting/
 │   ├── README.md
 │   ├── purchase-notes.md
@@ -61,13 +63,15 @@ work/jade-jewelry-business/
 8. Use `knowledge-base/08-instagram-account-setup.md` and `copywriting/instagram-launch-kit.md` to set up `@cometa.jade`.
 9. Use `knowledge-base/09-setting-materials-guide.md` when deciding S925, gold plating, PVD, vermeil, K gold, and product material disclosure.
 10. Use `knowledge-base/10-purchasing-checklist.md` before buying new jadeite material.
+11. Use `knowledge-base/11-主題構思.md` to collect future product and content series ideas.
+12. Use `knowledge-base/12-finished-product-qc-checklist.md` before deciding whether a finished piece can be listed.
 
 ## Current Priority
 
 Month 2:
 
-- Finish QC checks for M001-M012.
-- Confirm processing timeline, minimum order requirements, and loss risk.
-- Decide silver or gold-plated S925 for each launch candidate.
+- Finish QC checks for M001-M028, especially M004, M007-M011 and M026-M028 after polishing.
+- Use the finished-product QC checklist before deciding whether M004 and M009 can be listed.
+- Confirm processing quotes for M014, M015, M020, M021 and M023.
 - Select the first 3-5 launch SKU candidates.
-- Prepare FAQ, delivery, care, return, and defect handling copy.
+- Turn purchase notes and care notes into FAQ / IG Highlight copy.
