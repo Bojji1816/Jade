@@ -57,6 +57,7 @@
 | M009 | 權記鑲嵌完成：銀色中孔耳勾小牌耳墜 | `trackers/images/finished/M009-finished-earrings-IMG_9169.HEIC` | 加工成本 42.2 CNY，手工一般但很平；用作低加工方案實物參考，需補成品 QC 近鏡。 |
 | M011 | 槍黑 huggie 短耳墜 | `trackers/concept-renders/M011/product-04-gunmetal-huggie-slot-drop.png` | 黑銀五金令烏雞灰黑紋理更沉穩，中性和份量感較強。 |
 | M014 | 概念圖：銀色太陽/星芒扣頭長方牌項鏈 | `trackers/concept-renders/M014/M014-silver-sunburst-pendant-concept.png` | 根據 2026-08-14 參考圖生成；用作報價和比例 review，實際加工需確認 9.4mm 厚度、背托和孔位受力。 |
+| M014 | 修正版概念圖：星芒上移直駁吊環長方牌項鏈 | `trackers/concept-renders/M014/M014-silver-sunburst-integrated-bail-v3.png` | 較推薦星芒結構；星芒扣頭放上少少並直接接上方吊環，不另鑽上方孔位，中心改為銀珠/銀面而不是孔或黑石。 |
 | M014 | 概念圖：925銀拉絲長雙夾片扣頭長方牌項鏈 | `trackers/concept-renders/M014/M014-brushed-925-double-tab-bail-v1.png` | 根據 M003 拉絲銀雙夾片扣材質延伸；較有工業感，但扣頭遮住牌面較多，需確認前後包邊和孔位受力。 |
 | M014 | 概念圖：925銀拉絲短雙夾片扣頭長方牌項鏈 | `trackers/concept-renders/M014/M014-brushed-925-short-clamp-bail-v2.png` | 較推薦方向；短雙夾片遮玉較少，保留孔位可見，適合報價時問 9.4mm 厚度是否可做前後包邊。 |
 | M015 | 概念圖：金色 true bezel 小方牌項鏈 | `trackers/concept-renders/M015/M015-gold-bezel-rectangular-pendant-concept.png` | 根據 2026-08-17 生成；主打小山水感，綠啡角需完整保留，厚度近 9mm 要問框深和底托。 |
