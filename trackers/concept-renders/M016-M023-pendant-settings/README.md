@@ -1,8 +1,8 @@
 # M016 / M023 Small Pendant Setting Concepts
 
 Reference items:
-- M016: 黃翡葉形吊咀一對 A
-- M023: 黃翡葉形吊咀一對 B
+- M016: 黃翡葉形吊咀
+- M023: 黃翡葉形吊咀
 
 Purpose: explore small pendant settings that work with the irregular yellow jade leaf shapes.
 

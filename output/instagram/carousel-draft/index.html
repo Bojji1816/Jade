@@ -1,0 +1,373 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AFTERGLOW Jade - First Carousel Draft</title>
+  <style>
+    :root {
+      --charcoal: #202326;
+      --warm-white: #faf9f6;
+      --pale-jade: #c8ddd3;
+      --deep-jade: #3b8c72;
+      --honey: #ddba59;
+      --muted: #707573;
+    }
+
+    * { box-sizing: border-box; }
+
+    html, body {
+      margin: 0;
+      background: #d9d9d6;
+      color: var(--charcoal);
+      font-family: Arial, "PingFang TC", "Noto Sans TC", sans-serif;
+    }
+
+    body { padding: 48px; }
+
+    .slide {
+      position: relative;
+      width: 1080px;
+      height: 1350px;
+      margin: 0 auto 48px;
+      overflow: hidden;
+      background: var(--warm-white);
+    }
+
+    .serif {
+      font-family: Georgia, "Songti TC", "Noto Serif TC", serif;
+      font-weight: 400;
+    }
+
+    .eyebrow {
+      font-size: 17px;
+      line-height: 1;
+      letter-spacing: 0;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .page-mark {
+      position: absolute;
+      right: 56px;
+      bottom: 46px;
+      z-index: 3;
+      font-size: 16px;
+      color: var(--muted);
+    }
+
+    .photo {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .en {
+      margin: 0;
+      font-family: Georgia, "Times New Roman", serif;
+      font-weight: 400;
+      letter-spacing: 0;
+    }
+
+    .zh {
+      margin: 0;
+      font-family: "Songti TC", "Noto Serif TC", "PingFang TC", serif;
+      font-weight: 400;
+      letter-spacing: 0;
+    }
+
+    /* Slide 1 */
+    .slide-1 .photo { object-position: center; }
+
+    .slide-1::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(145deg, rgba(250,249,246,.64) 0%, rgba(250,249,246,.14) 38%, rgba(250,249,246,0) 60%);
+    }
+
+    .slide-1 .copy {
+      position: absolute;
+      z-index: 2;
+      left: 70px;
+      top: 70px;
+      width: 520px;
+      padding-left: 24px;
+      border-left: 4px solid var(--honey);
+    }
+
+    .slide-1 .en {
+      margin-top: 58px;
+      font-size: 76px;
+      line-height: 1.08;
+    }
+
+    .slide-1 .zh {
+      margin-top: 30px;
+      font-size: 34px;
+      line-height: 1.5;
+    }
+
+    /* Slide 2 */
+    .slide-2 {
+      display: grid;
+      grid-template-rows: 54% 46%;
+    }
+
+    .slide-2 .image {
+      overflow: hidden;
+      background: #292c2b;
+    }
+
+    .slide-2 .image img {
+      object-position: 54% 52%;
+      transform: scale(1.05);
+    }
+
+    .slide-2 .copy {
+      padding: 55px 70px 48px;
+      position: relative;
+    }
+
+    .slide-2 .copy::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 70px;
+      width: 92px;
+      height: 5px;
+      background: var(--pale-jade);
+    }
+
+    .slide-2 .en {
+      font-size: 49px;
+      line-height: 1.17;
+    }
+
+    .slide-2 .zh {
+      margin-top: 30px;
+      font-size: 30px;
+      line-height: 1.58;
+      color: #424746;
+    }
+
+    /* Slide 3 */
+    .slide-3 {
+      display: grid;
+      grid-template-columns: 44% 56%;
+      background: #edf2ee;
+    }
+
+    .slide-3 .image {
+      overflow: hidden;
+      background: #a97f6f;
+    }
+
+    .slide-3 .image img {
+      object-position: 50% 48%;
+    }
+
+    .slide-3 .copy {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 76px 66px;
+    }
+
+    .slide-3 .rule {
+      width: 72px;
+      height: 4px;
+      margin: 32px 0 45px;
+      background: var(--deep-jade);
+    }
+
+    .slide-3 .en {
+      font-size: 46px;
+      line-height: 1.22;
+    }
+
+    .slide-3 .zh {
+      margin-top: 54px;
+      font-size: 31px;
+      line-height: 1.68;
+    }
+
+    /* Slide 4 */
+    .slide-4 {
+      display: grid;
+      grid-template-rows: 39% 61%;
+    }
+
+    .slide-4 .triptych {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 4px;
+      background: var(--warm-white);
+    }
+
+    .slide-4 .triptych div { overflow: hidden; }
+    .slide-4 .triptych img { object-position: center 56%; }
+    .slide-4 .triptych div:nth-child(1) img { transform: scale(1.14); }
+    .slide-4 .triptych div:nth-child(2) img { transform: scale(1.13); }
+    .slide-4 .triptych div:nth-child(3) img { transform: scale(1.11); }
+
+    .slide-4 .copy {
+      padding: 55px 70px 42px;
+      display: grid;
+      grid-template-columns: 1fr 1.12fr;
+      column-gap: 62px;
+      align-content: start;
+      border-top: 10px solid var(--honey);
+    }
+
+    .slide-4 .en {
+      margin-top: 30px;
+      font-size: 47px;
+      line-height: 1.18;
+    }
+
+    .slide-4 .zh {
+      margin-top: 26px;
+      font-size: 28px;
+      line-height: 1.6;
+    }
+
+    .slide-4 .principle {
+      align-self: end;
+      margin-top: 43px;
+      padding-top: 30px;
+      border-top: 1px solid #b8c3bd;
+      font-size: 32px;
+      line-height: 1.55;
+      color: var(--deep-jade);
+    }
+
+    /* Slide 5 */
+    .slide-5 {
+      display: grid;
+      grid-template-rows: 53% 47%;
+    }
+
+    .slide-5 .image {
+      position: relative;
+      overflow: hidden;
+      background: #f4f4f1;
+    }
+
+    .slide-5 .image img {
+      object-position: center 23%;
+      transform: scale(1.02);
+    }
+
+    .slide-5 .copy {
+      position: relative;
+      padding: 55px 70px 45px;
+      text-align: center;
+      background: var(--warm-white);
+    }
+
+    .slide-5 .en {
+      font-size: 48px;
+      line-height: 1.28;
+    }
+
+    .slide-5 .zh {
+      margin-top: 27px;
+      font-size: 34px;
+      line-height: 1.5;
+      color: var(--deep-jade);
+    }
+
+    .slide-5 .brand {
+      position: absolute;
+      left: 50%;
+      bottom: 40px;
+      transform: translateX(-50%);
+      width: 390px;
+      text-align: center;
+    }
+
+    .slide-5 .brand img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    .slide-5 .descriptor {
+      margin-top: 4px;
+      font-size: 16px;
+      color: var(--muted);
+    }
+  </style>
+</head>
+<body>
+  <section class="slide slide-1" id="slide-1">
+    <img class="photo" src="../concepts/slide-01-real-jade-flatlay-concept-v1.png" alt="Four different jade pieces in window light">
+    <div class="copy">
+      <div class="eyebrow">AFTERGLOW JADE · 巧翠</div>
+      <p class="en">No two alike.<br>Just like us.</p>
+      <p class="zh">我們都是獨一無二的，<br>翡翠亦然</p>
+    </div>
+    <span class="page-mark">01 / 05</span>
+  </section>
+
+  <section class="slide slide-2" id="slide-2">
+    <div class="image">
+      <img class="photo" src="../../../trackers/images/M001-IMG_5819.JPG" alt="Macro detail of jade with natural inclusions">
+    </div>
+    <div class="copy">
+      <p class="en">Not a single crystal,<br>but countless crystals<br>interlocked as one.</p>
+      <p class="zh">翡翠並非一顆晶體，<br>而是無數微細晶體交織相聚，<br>方成一翠。</p>
+    </div>
+    <span class="page-mark">02 / 05</span>
+  </section>
+
+  <section class="slide slide-3" id="slide-3">
+    <div class="image">
+      <img class="photo" src="../../../trackers/images/M002-IMG_5829.JPG" alt="Jade pendant held in a hand">
+    </div>
+    <div class="copy">
+      <div class="eyebrow">The human connection</div>
+      <div class="rule"></div>
+      <p class="en">We are formed<br>in much the same way.<br><br>By every encounter,<br>every memory,<br>every experience.</p>
+      <p class="zh">人亦如是。<br>萬般相遇與經歷，<br>慢慢成為今天的我們。</p>
+    </div>
+    <span class="page-mark">03 / 05</span>
+  </section>
+
+  <section class="slide slide-4" id="slide-4">
+    <div class="triptych">
+      <div><img class="photo" src="../../../trackers/images/second-trip/IMG_6216.JPG" alt="White jade with dark landscape-like veining"></div>
+      <div><img class="photo" src="../../../trackers/images/second-trip/IMG_6246.jpg" alt="Honey yellow teardrop jade"></div>
+      <div><img class="photo" src="../../../trackers/images/second-trip/IMG_6250.jpg" alt="Warm yellow triangular jade"></div>
+    </div>
+    <div class="copy">
+      <div>
+        <div class="eyebrow">Why AFTERGLOW</div>
+        <p class="en">We do not chase perfection.<br>We honour character.</p>
+      </div>
+      <div>
+        <p class="zh">我們不追求無瑕的完美，<br>而是珍視每一件翡翠<br>由結構、色澤、紋理與光<br>共同形成的個性。</p>
+        <p class="zh principle">依玉而設計，<br>不讓玉遷就款式。</p>
+      </div>
+    </div>
+    <span class="page-mark">04 / 05</span>
+  </section>
+
+  <section class="slide slide-5" id="slide-5">
+    <div class="image">
+      <img class="photo" src="../../../trackers/images/M009-IMG_5885.JPG" alt="A naturally matched pair of jade pieces">
+    </div>
+    <div class="copy">
+      <p class="en">Countless crystals. One jade.<br>Countless moments. One self.</p>
+      <p class="zh">萬晶成翠，萬歷成我。</p>
+      <div class="brand">
+        <img src="../../brand/final-assets/afterglow-jade/afterglow-jade-wordmark-only-2400x600.png" alt="AFTERGLOW Jade">
+        <div class="descriptor">Natural jade · One of one</div>
+      </div>
+    </div>
+    <span class="page-mark">05 / 05</span>
+  </section>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="300" viewBox="0 0 1600 300">
+  <rect width="1600" height="300" fill="#faf9f6"/>
+  <g transform="translate(15 24) scale(0.50)">
+    <g fill="#202326" stroke="#202326" stroke-width="0.8" paint-order="stroke fill">
+      <text x="70" y="218"
+        font-family="Didot, 'Bodoni 72', serif"
+        font-size="190"
+        font-weight="400"
+        letter-spacing="10">AFTERGLOW</text>
+    </g>
+    <!-- Extended middle arms are deliberate custom features of F and E. -->
+    <g fill="#202326">
+      <rect x="228" y="145" width="112" height="3.2"/>
+      <rect x="482" y="145" width="112" height="3.2"/>
+    </g>
+  </g>
+</svg>

@@ -1,12 +1,12 @@
 # 每週任務追蹤
 
-最後更新：2026-08-17
-狀態：Draft v0.7
+最後更新：2026-08-20
+狀態：Draft v0.8
 
 ## 當前焦點
 
 月份：Month 2
-主題：第一批學習貨整理完成度提升 + COMETA 品牌基礎 + 包裝/IG 上架準備
+主題：第一批學習貨整理完成度提升 + AFTERGLOW 品牌基礎 + 包裝/IG 上架準備
 
 ## 進度快照
 
@@ -14,9 +14,9 @@
 - 現貨記錄已由第一批 10 件擴展至 M001-M028，並已建立照片、尺寸、成本、來源、用途和狀態記錄；其中 M026-M028 為第一轉 B466 未取回毛料，待拋光完成後補尺寸和 QC。
 - 逐件產品構思、加工方向、建議售價帶和加工優先次序已整理於 `trackers/inventory-product-ideas.md`。
 - 鑲嵌材質策略已收窄：首階段以 S925 銀為主，按顏色和價位需要再加鍍金。
-- 品牌名稱已確認為 `COMETA`，Instagram handle 為 `@cometa.jade`，tagline 為 `Jade, in a new light.`。
-- Instagram page `@cometa.jade` 已建立，頭像和 Bio 已上線，目前 0 posts、0 followers、0 following。
-- 包裝方向已確認為 120 x 90 x 40 mm 白色磁吸書型盒，配作品身份卡和信封翻蓋絨毛袋。
+- 品牌名稱已確認為 `AFTERGLOW JADE`，中文名為 `巧翠`，Instagram handle 為 `@afterglow.jade`，tagline 為 `A quiet glow that stays.`。
+- Instagram page `@afterglow.jade` 已建立，final 頭像和 Bio 已上線，目前未發布首篇帖文。
+- 包裝結構目標為 120 x 90 x 40 mm 白色磁吸書型盒，配作品身份卡、可揭展示托和底層信封翻蓋絨毛袋；AFTERGLOW 視覺及實物樣盒仍待確認。
 - IG 小批量啟動計劃、Profile、Pinned Posts、Highlights 和 DM/WhatsApp 文案已有初版。
 - 耳環成本及毛利粗算已建立於 `trackers/earring-cost-margin.md`，鑲嵌耳環價格帶需上調。
 - 入貨 checklist v0.1 已建立於 `knowledge-base/10-purchasing-checklist.md`。
@@ -174,10 +174,10 @@
 任務：
 - [x] 確認 working brand name。
 - [x] 更新 moodboard，定下照片、包裝、顏色和字體方向。
-- [ ] 建立 IG/網站基礎頁面。備註：IG page `@cometa.jade` 已建立，頭像和 Bio 已上線；置頂帖、Highlights、聯絡入口和網站仍待完成。
+- [ ] 建立 IG/網站基礎頁面。備註：IG page `@afterglow.jade` 已建立，final 頭像和 Bio 已上線；置頂帖、Highlights、聯絡入口和網站仍待完成。
 - [ ] 建立 FAQ 初版：天然翡翠/A貨、證書、保養、運送、退換、尺寸、送禮。備註：購買須知和保養須知已有初版，仍需整理成 FAQ 格式。
 - [ ] 確認香港交收/寄送、海外寄送初步政策、退換和瑕疵處理原則。備註：購買須知已有退換和開箱影片原則，仍需補香港/海外運送細節。
-- [x] 確認包裝方案：首飾盒/袋、保養卡、感謝卡。
+- [ ] 確認包裝方案：結構方向已定，待 AFTERGLOW 視覺、供應商規格、樣盒、成本及保護測試後完成。
 - [ ] 完成第一批產品拍攝或排期。
 
 完成標準：
