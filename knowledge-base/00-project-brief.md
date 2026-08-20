@@ -1,7 +1,7 @@
 # 時尚翡翠珠寶品牌 - 專案簡介
 
-最後更新：2026-08-07
-狀態：Draft v0.5
+最後更新：2026-08-20
+狀態：Active project；Brand identity final v1.0
 
 ## 核心方向
 
@@ -11,13 +11,18 @@
 
 ## 已確認定位
 
-- 品牌名：`COMETA`。
-- Instagram handle：`@cometa.jade`。
-- 品牌核心文案：`Jade, in a new light.` / `讓翡翠，以新的光走進日常。`
-- 暫定 Logo：深墨綠手寫 `Cometa` 字標，capital `C` 內加入淡玉色彗星筆觸；Instagram 頭像使用完整字標。
-- Logo 概念稿：`output/brand/logo-concepts/cometa-jade-ink-book-box-refined.png`。
-- Instagram Logo：`output/brand/final-assets/cometa-instagram-profile-1080.png`（1080 x 1080）。
-- 品牌 Banner：`output/brand/final-assets/cometa-banner-1920x640.png`（1920 x 640）。
+- 品牌名：`AFTERGLOW JADE`；中文名保留 `巧翠`。
+- Instagram handle：`@afterglow.jade`。
+- 品牌核心文案：`A quiet glow that stays.`；中文版本待確認。
+- 已選 Logo 方向：`Quiet Dawn`。主字標使用纖幼日系 editorial serif，配幼身暖金地平線及半圓餘光；descriptor 使用 `JADE | 巧翠`。
+- `AFTERGLOW` 字標母版：`output/brand/logo-concepts/afterglow-wordmark-selected-reference.png`。後續版本須直接沿用此字形，不以相似字體或 ImageGen 重畫替代。
+- 已選概念稿：`output/brand/logo-concepts/afterglow-jade-quiet-dawn.png`。
+- Final 品牌板：`output/brand/final/afterglow-jade-final-brand-board.png`。
+- Final 主 Logo：`output/brand/final/afterglow-jade-primary-logo.png`。
+- Final Instagram 頭像：`output/brand/final/afterglow-jade-instagram-profile-1080.png`。
+- Final digital brand kit：`output/brand/final-assets/afterglow-jade/`。
+- Logo 狀態：數碼版本已確認為 Final v1.0；後續只需按實際印刷工藝製作向量生產檔及實物測試。
+- 舊 `COMETA` Logo、Instagram 圖及 Banner 保留作歷史概念，不再作目前主方向。
 - 包裝狀態：現有概念只作保留，結構及視覺稍後再調整，未作生產定案。
 - 品牌風格：現代簡約、日常高質感。
 - 主力客人：女性自用。
@@ -62,6 +67,9 @@
 - `05-competitor-research.md`：競品研究和可參考策略。
 - `06-instagram-shop-plan.md`：小批量 IG 啟動、內容、銷售流程和決策清單。
 - `07-packaging-design.md`：包裝定位、物品清單、已確認決策、採購及測試項目。
-- `08-instagram-account-setup.md`：COMETA Instagram 開帳設定 SOP、置頂帖、Highlights 和銷售流程。
+- `08-instagram-account-setup.md`：AFTERGLOW JADE Instagram 開帳設定 SOP、置頂帖、Highlights 和銷售流程。
 - `09-setting-materials-guide.md`：鑲嵌金屬、S925、鍍金、PVD、vermeil、K 金和對客材質披露筆記。
-- `10-purchasing-checklist.md`：入貨前快速判斷產品方向、加工風險、成本和是否符合 COMETA 風格。
+- `10-purchasing-checklist.md`：入貨前快速判斷產品方向、加工風險、成本和是否符合 AFTERGLOW 風格。
+- `11-主題構思.md`：未來產品、內容系列及品牌方向構思。
+- `12-finished-product-qc-checklist.md`：成品上架前 QC、結構、配戴及披露檢查。
+- `13-product-photography-workflow.md`：產品攝影流程，固定拍標準清楚圖、生活氛圍圖、近距離質感圖及配戴圖。

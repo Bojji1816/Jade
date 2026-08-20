@@ -1,6 +1,6 @@
 # 時尚翡翠珠寶品牌 Codex Project
 
-最後更新：2026-08-07
+最後更新：2026-08-20
 狀態：Active project
 
 ## Project Purpose
@@ -35,7 +35,8 @@ work/jade-jewelry-business/
 │   ├── 09-setting-materials-guide.md
 │   ├── 10-purchasing-checklist.md
 │   ├── 11-主題構思.md
-│   └── 12-finished-product-qc-checklist.md
+│   ├── 12-finished-product-qc-checklist.md
+│   └── 13-product-photography-workflow.md
 ├── copywriting/
 │   ├── README.md
 │   ├── purchase-notes.md
@@ -60,11 +61,12 @@ work/jade-jewelry-business/
 5. Record major business decisions in `knowledge-base/03-decisions-log.md`.
 6. Add competitor notes to `knowledge-base/05-competitor-research.md`.
 7. Manage reusable brand copy in `copywriting/`.
-8. Use `knowledge-base/08-instagram-account-setup.md` and `copywriting/instagram-launch-kit.md` to set up `@cometa.jade`.
+8. Use `knowledge-base/08-instagram-account-setup.md` and `copywriting/instagram-launch-kit.md` to set up the AFTERGLOW JADE Instagram account after the final handle is confirmed.
 9. Use `knowledge-base/09-setting-materials-guide.md` when deciding S925, gold plating, PVD, vermeil, K gold, and product material disclosure.
 10. Use `knowledge-base/10-purchasing-checklist.md` before buying new jadeite material.
 11. Use `knowledge-base/11-主題構思.md` to collect future product and content series ideas.
 12. Use `knowledge-base/12-finished-product-qc-checklist.md` before deciding whether a finished piece can be listed.
+13. Use `knowledge-base/13-product-photography-workflow.md` when shooting product photos: standard clear photo, lifestyle photo, close-up texture photo, and worn scale photo.
 
 ## Current Priority
 

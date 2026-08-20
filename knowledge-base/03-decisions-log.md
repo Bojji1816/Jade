@@ -1,7 +1,7 @@
 # 決策紀錄
 
-最後更新：2026-08-07
-狀態：Draft v0.5
+最後更新：2026-08-20
+狀態：Active project；Brand identity final v1.0
 
 ## 使用方法
 
@@ -9,13 +9,59 @@
 
 ## 已確認決策
 
+### 2026-08-19：AFTERGLOW JADE 品牌及 Quiet Dawn 視覺方向
+
+決策：品牌主方向改為 `AFTERGLOW JADE`，中文名保留 `巧翠`；採用 `Quiet Dawn` identity concept 作後續 refinement 基礎。
+
+視覺原則：
+
+- 主字標使用 uppercase `AFTERGLOW` 纖幼日系 editorial serif。
+- `AFTERGLOW` 字標字形以 `output/brand/logo-concepts/afterglow-wordmark-selected-reference.png` 為唯一母版；保留其原有 `F/E`、字距及筆劃比例，後續不以相似字體或生成圖重新演繹。
+- `JADE | 巧翠` 作固定 descriptor。
+- 幼身暖金地平線及半圓餘光作主要識別細節，表達翡翠安靜而持續的光。
+- 核心文案暫用 `A quiet glow that stays.`，中文版本待確認。
+- 保留淡玉綠、薰衣草紫及暖黃材質符號，但會收斂使用場景及重新命名對客分類。
+- Instagram 頭像使用完整 `AFTERGLOW` 名稱；另發展小尺寸及單色版本。
+
+概念稿：`output/brand/logo-concepts/afterglow-jade-quiet-dawn.png`。
+
+Final 品牌板：`output/brand/final/afterglow-jade-final-brand-board.png`。
+
+Final 主 Logo：`output/brand/final/afterglow-jade-primary-logo.png`。
+
+Final Instagram 頭像：`output/brand/final/afterglow-jade-instagram-profile-1080.png`。
+
+Final digital brand kit：`output/brand/final-assets/afterglow-jade/`。
+
+狀態：數碼品牌識別已確認為 Final v1.0，包括主 Logo、純字標、IG 頭像、Banner、色板及品牌板。舊 `COMETA` 命名及 2026-07-28 暫定 Logo 決策由本項取代，但原紀錄及資產保留作歷史參考。向量生產檔及實物印刷測試按供應商工藝另行處理。
+
+覆核時間：完成 IG 頭像、網站 header、印刷小尺寸及包裝實物測試後。
+
+### 2026-08-20：AFTERGLOW 包裝視覺更新
+
+決策：保留 120 x 90 x 40 mm 微長方形磁吸書型盒作目標結構，包括左頁分層卡袋、右頁可揭首飾展示托及底層信封翻蓋絨毛袋；所有 COMETA 名稱、彗星圖形、軌跡文案、舊 tagline 及舊配色停止作現行包裝使用。
+
+現行方向：
+
+- 盒身以 Warm white `#FAF9F6` 再生纖維紙為主。
+- 書脊及右側幼框優先測試 Charcoal `#202326`，Deep jade `#3B8C72` 作第二方案。
+- 盒面只使用 approved AFTERGLOW primary lockup：指定字標、暖金地平線、半圓餘光及 `JADE | 巧翠`。
+- 盒面不加入 tagline 或三個材質圖形；`A quiet glow that stays.` 移到盒內或作品身份卡。
+- `ONE OF ONE / 1/1`、分開保護首飾及可重用信封絨毛袋概念保留。
+- 水晶轉印只屬待測工藝；需先製作向量生產檔，並與啞面轉印、單色絲印及幼線燙金比較。
+- 舊 COMETA mockup 只作結構參考，不可交付供應商作現行品牌生產稿。
+
+狀態：視覺方向已更新；盒型、內尺寸、雙層結構、工藝、物料及 HK$30 成本仍待實物樣盒確認。
+
+覆核時間：收到供應商規格及 AFTERGLOW 包裝樣盒後。
+
 ### 2026-08-07：首階段鑲嵌材質策略
 
 決策：首階段鑲嵌和金屬配件大方向使用 `S925 銀`，按款式顏色、客群和價位需要再選擇是否加鍍金。
 
 使用原則：
 
-- S925 銀作為主要基底材質，適合 COMETA 的現代簡約、日常佩戴和 HK$500-1500 首階段價格帶。
+- S925 銀作為主要基底材質，適合 AFTERGLOW 的現代簡約、日常佩戴和 HK$500-1500 首階段價格帶。
 - 銀色優先用於清爽、冷調、糯冰、灰黑、烏雞和中性款，避免過度傳統金鑲玉感。
 - 鍍金只在需要提升暖調、送禮感或配合深綠/飄綠色彩時使用，不作所有款式標配。
 - 14K/18K 金暫不作首階段主力，避免加工成本過高和定價壓力過大；可留待高反應款或客訂升級。
@@ -32,6 +78,8 @@
 覆核時間：第一輪 Drop 後，按客人對銀色/金色、價格和佩戴保養問題的反應再調整。
 
 ### 2026-07-28：暫定 Logo 方向
+
+> 歷史紀錄：本項已由 2026-08-19 AFTERGLOW JADE 品牌決策取代。
 
 決策：暫定採用 `Jade Ink Cometa` Logo，先用於 Instagram 及網店視覺。
 
@@ -65,6 +113,8 @@
 狀態：Shortlist 已完成；磁吸書型盒進入實物確認階段。
 
 ### 2026-07-28：品牌名稱
+
+> 歷史紀錄：本項已由 2026-08-19 AFTERGLOW JADE 品牌決策取代。
 
 決策：品牌正式名稱使用 `COMETA`，Instagram handle 使用 `@cometa.jade`。
 
@@ -218,6 +268,8 @@
 覆核時間：取得絨布袋樣品並與磁吸書型盒一同試放後。
 
 ### 2026-07-28：第一階段包裝盒方向
+
+> 歷史紀錄：品牌視覺及盒面工藝已由 2026-08-20 AFTERGLOW 包裝決策取代；120 x 90 x 40 mm 磁吸書型結構仍保留作打樣目標。
 
 決策：第一階段採用 120 x 90 x 40 mm 微長方形磁吸書型盒。風格以 `cometa-book-box-chapter-pocket.png` 為主要參考：帶明顯再生纖維及非常疏落細金碎點的環保白紙盒身，配深墨綠書脊及右側首飾托幼框。盒面貼水晶 Logo 標貼，只見獨立凸起 Logo，不顯示透明底膜、貼紙邊或透明光暈；Logo 正下方加入細字 tagline `Jade, in a new light.`。盒蓋背放置作品身份卡及保養注意；右側盒身以上層完整可揭首飾展示托、下層底部信封翻蓋絨毛袋處理。絨毛袋收在盒內，不獨立放在盒外。抽屜盒保留作成本或供應後備。
 
