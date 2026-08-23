@@ -51,46 +51,46 @@
 
 | 編號 | 設計方向 | 成品圖 | 備註 |
 | --- | --- | --- | --- |
-| M004 | 亦柯手作完成：BB滿月小腳繩 | `trackers/images/finished/M004-finished-baby-anklet-IMG_6262.JPG` | 手作成本 35 CNY，玉博城亦柯手作完成；作滿月BB禮物，需補繩結、孔位、尺寸和佩戴安全 QC。 |
-| M004 | 歷史概念：half bezel + visible micro prongs 迷你戒指 | `trackers/concept-renders/M004/ring-05-half-bezel-visible-micro-prongs.png` | 最後未採用戒指方案；保留作未來細件鑲嵌結構參考。 |
-| M004 | 歷史概念：CAD-style half bezel + visible micro prongs | `trackers/concept-renders/M004/M004-cad-half-bezel-visible-prongs.png` / `trackers/concept-renders/M004/M004-cad-half-bezel-visible-prongs.svg` | 最後未採用戒指方案；正面、側面、截面仍可作工場溝通參考。 |
-| M004 | 歷史概念：迷你戒面上手 | `trackers/concept-renders/M004/worn-01-half-bezel-ring.png` | 最後未採用戒指方案；保留作尺寸比例參考。 |
-| M007 | 配戴預想：單耳半長耳線 | `trackers/concept-renders/M007/worn-02-threader-half-length-single-ear.png` | 修正為單邊配戴一隻，耳線約原先一半長度，避免吊得太低，同時保留輕盈垂墜感。 |
-| M009 | 權記鑲嵌完成：銀色中孔耳勾小牌耳墜 | `trackers/images/finished/M009-finished-earrings-IMG_9169.HEIC` | 加工成本 42.2 CNY，手工一般但很平；用作低加工方案實物參考，需補成品 QC 近鏡。 |
-| M011 | 槍黑 huggie 短耳墜 | `trackers/concept-renders/M011/product-04-gunmetal-huggie-slot-drop.png` | 黑銀五金令烏雞灰黑紋理更沉穩，中性和份量感較強。 |
-| M014 | 概念圖：銀色太陽/星芒扣頭長方牌項鏈 | `trackers/concept-renders/M014/M014-silver-sunburst-pendant-concept.png` | 根據 2026-08-14 參考圖生成；用作報價和比例 review，實際加工需確認 9.4mm 厚度、背托和孔位受力。 |
-| M014 | 修正版概念圖：星芒上移直駁吊環長方牌項鏈 | `trackers/concept-renders/M014/M014-silver-sunburst-integrated-bail-v3.png` | 較推薦星芒結構；星芒扣頭放上少少並直接接上方吊環，不另鑽上方孔位，中心改為銀珠/銀面而不是孔或黑石。 |
-| M014 | 最終確認圖：銀色星芒扣頭長方牌項鏈 | `trackers/concept-renders/M014/M014-confirmed-silver-sunburst-pendant.png` | 2026-08-20 確認採用；銀色星芒放在牌面上方，直駁吊環，不另鑽新孔，中心用銀珠/銀面焦點。下一步可用此圖報價及問厚度/背托/受力。 |
-| M014 | 概念圖：黑金色星芒扣頭長方牌項鏈 | `trackers/concept-renders/M014/M014-black-gold-sunburst-bail-v1.png` | 由銀色星芒款改成黑金/黑銠鍍金效果；保留星芒上移直駁吊環結構，不另鑽孔。黑金色令灰黑紋更沉穩，視覺較中性和高級，但需問鍍色耐磨度和鏈色是否可一致。 |
-| M014 | 概念圖：銀色天使翼直駁吊環長方牌項鏈 | `trackers/concept-renders/M014/M014-silver-angel-wing-integrated-bail-v1.png` | 由星芒方案改成一對 925 銀天使翼；翼頂直接接上方吊環，不另鑽上方孔位。視覺較柔和浪漫，但翼面遮蓋牌面上方較多，報價時需問可否縮細翼身和做貼面焊接/背托。 |
-| M014 | 概念圖：氧化銀單翼扣頭長方牌項鏈 | `trackers/concept-renders/M014/M014-oxidized-silver-single-wing-bail-v1.png` | 根據翼形參考圖延伸；用一隻帶氧化黑槽和羽毛刻線的 925 銀翼斜放在牌面上方，吊環直接接翼頂金屬件，不另鑽孔。比雙翼版更保留玉面和灰黑紋理，但工藝會較複雜，需問羽毛線條可否做到立體而不刮衫。 |
-| M014 | 概念圖：氧化銀十字扣頭長方牌項鏈 | `trackers/concept-renders/M014/M014-oxidized-silver-cross-bail-v1.png` | 由翼形參考圖的氧化銀線條改成十字扣頭；十字頂部直接接吊環，不另鑽孔。此版視覺較宗教/哥德，比例偏大並遮住中上方玉面，若商品化可要求縮細、做短十字或只保留上半段作扣頭。 |
-| M014 | 概念圖：925銀拉絲長雙夾片扣頭長方牌項鏈 | `trackers/concept-renders/M014/M014-brushed-925-double-tab-bail-v1.png` | 根據 M003 拉絲銀雙夾片扣材質延伸；較有工業感，但扣頭遮住牌面較多，需確認前後包邊和孔位受力。 |
-| M014 | 概念圖：925銀拉絲短雙夾片扣頭長方牌項鏈 | `trackers/concept-renders/M014/M014-brushed-925-short-clamp-bail-v2.png` | 較推薦方向；短雙夾片遮玉較少，保留孔位可見，適合報價時問 9.4mm 厚度是否可做前後包邊。 |
-| M015 | 概念圖：四種非傳統小物玩法 | `trackers/concept-renders/second-trip/M015-four-nontraditional-design-directions.png` | 2026-08-20 按實物重新定位：細件、豆種、透光弱，不建議重工 true bezel；優先看橫放小畫牌和黑蠟線 charm。 |
-| M015 | 概念圖：粗舊銀 / 舊黑銀包邊吊環在上修正版 | `trackers/concept-renders/second-trip/M015-bezel-artifact-top-bail-corrected-orientation.png` | 2026-08-20 按用戶要求修正：全部用吊環在上角度查看；橫放玉件已按配戴方向重新旋轉，避免圖案方向錯。 |
-| M015 | 概念圖：四角鉚釘無包邊粗舊銀 / 舊黑銀背板托底 | `trackers/concept-renders/second-trip/M015-four-corner-rivet-backing-plate-concept.png` | 2026-08-20 主推修正版；背板托底 + 四角不規則鉚釘感固定點，底部金屬耳仔接跳圈，不穿翡翠。鉚釘正式製作要再細粒，避免遮住啡黑底邊和綠色位。 |
-| M015 | 歷史概念圖：四鉚釘無包邊背板托底 | `trackers/concept-renders/second-trip/M015-four-irregular-rivet-backing-plate-concept.png` | 四點放在側邊中段，視覺不及四角自然；保留作固定點大小和金屬色參考。 |
-| M015 | 歷史概念圖：無包邊背板托底修正版 | `trackers/concept-renders/second-trip/M015-no-bezel-backing-plate-corrected-loop-concept.png` | 無鉚釘版本；結構正確但正式製作不建議純貼，保留作背板和扣位參考。 |
-| M015 | 歷史概念圖：無包邊背板托底初版 | `trackers/concept-renders/second-trip/M015-no-bezel-rough-silver-backing-plate-concept.png` | 初版 front/side/back 扣環位置不夠一致，只保留作粗舊銀和舊黑銀顏色參考。 |
-| M015 | 歷史概念圖：拉絲金屬包邊托底 vintage 小牌 | `trackers/concept-renders/second-trip/M015-brushed-metal-backed-bezel-vintage-concept.png` | 早期按包邊托底方向生成；現降級為歷史參考，不作主推。 |
-| M015 | 歷史概念圖：粗舊銀 / 舊黑銀包邊初版 | `trackers/concept-renders/second-trip/M015-rough-silver-blackened-bezel-artifact-concept.png` | 初版吊環在下且橫放方向有誤，只保留作粗舊銀 / 舊黑銀金屬質感參考。 |
-| M015 | 歷史概念圖：金色 true bezel 小方牌項鏈 | `trackers/concept-renders/M015/M015-gold-bezel-rectangular-pendant-concept.png` | 早期按小山水精緻吊墜方向生成；現降級為歷史參考，除非工費很低，否則不作主推。 |
-| M020 | 概念圖：金色葉扣水滴吊墜 | `trackers/concept-renders/M020/M020-gold-leaf-cap-drop-pendant-concept.png` | 根據 2026-08-17 生成；適合做黃翡主力單吊咀，重點確認 9.6mm 厚度、扣頭承托和重心。 |
-| M021 | 概念圖：金色幾何三角吊墜 | `trackers/concept-renders/M021/M021-geometric-triangle-pendant-concept.png` | 根據 2026-08-17 生成；幾何感強，製作時要保護三角尖位並控制外框厚度。 |
-| M023 | 歷史概念圖：金色小扣比例參考 | `trackers/concept-renders/M023/M023-gold-leaf-bail-reference-concept.png` | 早期生成圖只保留作金色小扣比例參考；現已更正 M023 為獨立單件。 |
-| M026 | 概念圖：銀色 huggie 灰墨彎牌耳墜 | `trackers/concept-renders/M026/M026-silver-huggie-curved-plaque-earrings-concept.png` | 根據 2026-08-17 生成；M026 仍未拋光取回，概念只作形態和系列方向 review。 |
-| M026 | 概念圖：灰墨彎牌情侶吊咀一對 | `trackers/concept-renders/M026/M026-silver-couple-curved-plaque-pendants-v1.png` | 由 huggie 耳墜方向改成一對獨立情侶項鏈吊咀；左右鏡像玉牌各配 925 銀包頂扣，左邊扣頭較厚身、右邊較幼身，保留同系列細黑線細節。待拋光取回後需確認頂部厚度是否可做包頂/夾扣而不另鑽孔。 |
-| M026 | 概念圖：合體月牙/抽象心情侶吊咀 | `trackers/concept-renders/M026/M026-couple-symbol-crescent-heart-pendants-v1.png` | 方向 1；兩隻獨立吊咀分開佩戴，合埋時內弧形成抽象月牙/心形符號。設計較乾淨，故事清楚，但仍偏保守，可再加強合體後的符號感。 |
-| M026 | 概念圖：黑銀對比情侶吊咀 | `trackers/concept-renders/M026/M026-couple-black-silver-contrast-pendants-v1.png` | 方向 3；左黑銠/氧化銀、右亮銀，同一包頂扣形但反色處理，陰陽/夜霧感較強，最易落地問價。需確認黑色鏈和扣頭鍍色耐磨。 |
-| M026 | 概念圖：金屬線延伸玉紋情侶吊咀 | `trackers/concept-renders/M026/M026-couple-metal-vein-line-pendants-v1.png` | 方向 4；用幼銀/黑銀線由扣頭延伸落玉面，呼應本身黑紋，像水墨線條轉成金屬。設計感強，但工藝較難，需問貼面/嵌線是否穩固和會否刮手。 |
-| M026 | 概念圖：護身符牙形脊線情侶吊咀 | `trackers/concept-renders/M026/M026-couple-talisman-fang-spine-pendants-v1.png` | 方向 6；用氧化銀包頂、側邊脊線和短刻痕，做成 talisman/牙形護身符感。記憶點最強、較中性，但金屬件較多，需控制重量和保留玉面。 |
-| M026 | 概念圖：上下反轉雙月牙單吊咀 | `trackers/concept-renders/M026/M026-combined-opposite-double-crescent-pendant-v1.png` | 將兩片彎牌合成一隻吊咀，上下反轉排列，中間用銀扣連接。方向清楚，但中間扣位較普通，像兩件料串接，需再強化成一件完整設計。 |
-| M026 | 概念圖：中軸雙牙護身符單吊咀 | `trackers/concept-renders/M026/M026-combined-opposite-spine-talisman-pendant-v2.png` | 較推薦；兩片彎牌上下反轉靠近中軸，用 925 銀脊柱和夾扣固定，形成雙月牙/雙牙 talisman。故事和記憶點強，但要問工場中軸背托、夾扣厚度和整件重量。 |
-| M011 | 氧化銀耳勾款 | `trackers/concept-renders/M011/product-05-oxidized-silver-ear-hook-slot-drop.png` | 比 huggie 輕身，冷感較明顯，適合日常低調款。 |
-| M012 | 銀色 true bezel 壓邊小吊墜 | `trackers/concept-renders/M012/product-05-silver-true-bezel-lip.png` | 已將金屬 lip 微微覆蓋玉面邊緣，較清楚表達係真 bezel 壓邊固定，不是單純外框。 |
-| M012 | 黑色 true bezel 壓邊小吊墜 | `trackers/concept-renders/M012/product-06-black-true-bezel-lip.png` | 黑邊呼應玉內黑紋，並以壓邊 lip 表達固定結構；需留意氧化/電鍍磨損露色。 |
-| M012 | 配戴預想：銀色全包邊上頸 | `trackers/concept-renders/M012/worn-01-full-silver-bezel-necklace.png` | 展示小吊墜上頸比例；製作時要確認係真 bezel 壓邊加底托，而唔係只做外框。 |
+| M004 | 亦柯手作完成：BB滿月小腳繩 | `images/finished/M004-finished-baby-anklet-IMG_6262.JPG` | 手作成本 35 CNY，玉博城亦柯手作完成；作滿月BB禮物，需補繩結、孔位、尺寸和佩戴安全 QC。 |
+| M004 | 歷史概念：half bezel + visible micro prongs 迷你戒指 | `concept-renders/M004/ring-05-half-bezel-visible-micro-prongs.png` | 最後未採用戒指方案；保留作未來細件鑲嵌結構參考。 |
+| M004 | 歷史概念：CAD-style half bezel + visible micro prongs | `concept-renders/M004/M004-cad-half-bezel-visible-prongs.png` / `concept-renders/M004/M004-cad-half-bezel-visible-prongs.svg` | 最後未採用戒指方案；正面、側面、截面仍可作工場溝通參考。 |
+| M004 | 歷史概念：迷你戒面上手 | `concept-renders/M004/worn-01-half-bezel-ring.png` | 最後未採用戒指方案；保留作尺寸比例參考。 |
+| M007 | 配戴預想：單耳半長耳線 | `concept-renders/M007/worn-02-threader-half-length-single-ear.png` | 修正為單邊配戴一隻，耳線約原先一半長度，避免吊得太低，同時保留輕盈垂墜感。 |
+| M009 | 權記鑲嵌完成：銀色中孔耳勾小牌耳墜 | `images/finished/2026-08-19-product-photos/converted/jpg/IMG_9169.jpg` | 加工成本 42.2 CNY，手工一般但很平；用作低加工方案實物參考，需補成品 QC 近鏡。 |
+| M011 | 槍黑 huggie 短耳墜 | `concept-renders/M011/product-04-gunmetal-huggie-slot-drop.png` | 黑銀五金令烏雞灰黑紋理更沉穩，中性和份量感較強。 |
+| M014 | 概念圖：銀色太陽/星芒扣頭長方牌項鏈 | `concept-renders/M014/M014-silver-sunburst-pendant-concept.png` | 根據 2026-08-14 參考圖生成；用作報價和比例 review，實際加工需確認 9.4mm 厚度、背托和孔位受力。 |
+| M014 | 修正版概念圖：星芒上移直駁吊環長方牌項鏈 | `concept-renders/M014/M014-silver-sunburst-integrated-bail-v3.png` | 較推薦星芒結構；星芒扣頭放上少少並直接接上方吊環，不另鑽上方孔位，中心改為銀珠/銀面而不是孔或黑石。 |
+| M014 | 最終確認圖：銀色星芒扣頭長方牌項鏈 | `concept-renders/M014/M014-confirmed-silver-sunburst-pendant.png` | 2026-08-20 確認採用；銀色星芒放在牌面上方，直駁吊環，不另鑽新孔，中心用銀珠/銀面焦點。下一步可用此圖報價及問厚度/背托/受力。 |
+| M014 | 概念圖：黑金色星芒扣頭長方牌項鏈 | `concept-renders/M014/M014-black-gold-sunburst-bail-v1.png` | 由銀色星芒款改成黑金/黑銠鍍金效果；保留星芒上移直駁吊環結構，不另鑽孔。黑金色令灰黑紋更沉穩，視覺較中性和高級，但需問鍍色耐磨度和鏈色是否可一致。 |
+| M014 | 概念圖：銀色天使翼直駁吊環長方牌項鏈 | `concept-renders/M014/M014-silver-angel-wing-integrated-bail-v1.png` | 由星芒方案改成一對 925 銀天使翼；翼頂直接接上方吊環，不另鑽上方孔位。視覺較柔和浪漫，但翼面遮蓋牌面上方較多，報價時需問可否縮細翼身和做貼面焊接/背托。 |
+| M014 | 概念圖：氧化銀單翼扣頭長方牌項鏈 | `concept-renders/M014/M014-oxidized-silver-single-wing-bail-v1.png` | 根據翼形參考圖延伸；用一隻帶氧化黑槽和羽毛刻線的 925 銀翼斜放在牌面上方，吊環直接接翼頂金屬件，不另鑽孔。比雙翼版更保留玉面和灰黑紋理，但工藝會較複雜，需問羽毛線條可否做到立體而不刮衫。 |
+| M014 | 概念圖：氧化銀十字扣頭長方牌項鏈 | `concept-renders/M014/M014-oxidized-silver-cross-bail-v1.png` | 由翼形參考圖的氧化銀線條改成十字扣頭；十字頂部直接接吊環，不另鑽孔。此版視覺較宗教/哥德，比例偏大並遮住中上方玉面，若商品化可要求縮細、做短十字或只保留上半段作扣頭。 |
+| M014 | 概念圖：925銀拉絲長雙夾片扣頭長方牌項鏈 | `concept-renders/M014/M014-brushed-925-double-tab-bail-v1.png` | 根據 M003 拉絲銀雙夾片扣材質延伸；較有工業感，但扣頭遮住牌面較多，需確認前後包邊和孔位受力。 |
+| M014 | 概念圖：925銀拉絲短雙夾片扣頭長方牌項鏈 | `concept-renders/M014/M014-brushed-925-short-clamp-bail-v2.png` | 較推薦方向；短雙夾片遮玉較少，保留孔位可見，適合報價時問 9.4mm 厚度是否可做前後包邊。 |
+| M015 | 概念圖：四種非傳統小物玩法 | `concept-renders/second-trip/M015-four-nontraditional-design-directions.png` | 2026-08-20 按實物重新定位：細件、豆種、透光弱，不建議重工 true bezel；優先看橫放小畫牌和黑蠟線 charm。 |
+| M015 | 概念圖：粗舊銀 / 舊黑銀包邊吊環在上修正版 | `concept-renders/second-trip/M015-bezel-artifact-top-bail-corrected-orientation.png` | 2026-08-20 按用戶要求修正：全部用吊環在上角度查看；橫放玉件已按配戴方向重新旋轉，避免圖案方向錯。 |
+| M015 | 概念圖：四角鉚釘無包邊粗舊銀 / 舊黑銀背板托底 | `concept-renders/second-trip/M015-four-corner-rivet-backing-plate-concept.png` | 2026-08-20 主推修正版；背板托底 + 四角不規則鉚釘感固定點，底部金屬耳仔接跳圈，不穿翡翠。鉚釘正式製作要再細粒，避免遮住啡黑底邊和綠色位。 |
+| M015 | 歷史概念圖：四鉚釘無包邊背板托底 | `concept-renders/second-trip/M015-four-irregular-rivet-backing-plate-concept.png` | 四點放在側邊中段，視覺不及四角自然；保留作固定點大小和金屬色參考。 |
+| M015 | 歷史概念圖：無包邊背板托底修正版 | `concept-renders/second-trip/M015-no-bezel-backing-plate-corrected-loop-concept.png` | 無鉚釘版本；結構正確但正式製作不建議純貼，保留作背板和扣位參考。 |
+| M015 | 歷史概念圖：無包邊背板托底初版 | `concept-renders/second-trip/M015-no-bezel-rough-silver-backing-plate-concept.png` | 初版 front/side/back 扣環位置不夠一致，只保留作粗舊銀和舊黑銀顏色參考。 |
+| M015 | 歷史概念圖：拉絲金屬包邊托底 vintage 小牌 | `concept-renders/second-trip/M015-brushed-metal-backed-bezel-vintage-concept.png` | 早期按包邊托底方向生成；現降級為歷史參考，不作主推。 |
+| M015 | 歷史概念圖：粗舊銀 / 舊黑銀包邊初版 | `concept-renders/second-trip/M015-rough-silver-blackened-bezel-artifact-concept.png` | 初版吊環在下且橫放方向有誤，只保留作粗舊銀 / 舊黑銀金屬質感參考。 |
+| M015 | 歷史概念圖：金色 true bezel 小方牌項鏈 | `concept-renders/M015/M015-gold-bezel-rectangular-pendant-concept.png` | 早期按小山水精緻吊墜方向生成；現降級為歷史參考，除非工費很低，否則不作主推。 |
+| M020 | 概念圖：金色葉扣水滴吊墜 | `concept-renders/M020/M020-gold-leaf-cap-drop-pendant-concept.png` | 根據 2026-08-17 生成；適合做黃翡主力單吊咀，重點確認 9.6mm 厚度、扣頭承托和重心。 |
+| M021 | 概念圖：金色幾何三角吊墜 | `concept-renders/M021/M021-geometric-triangle-pendant-concept.png` | 根據 2026-08-17 生成；幾何感強，製作時要保護三角尖位並控制外框厚度。 |
+| M023 | 歷史概念圖：金色小扣比例參考 | `concept-renders/M023/M023-gold-leaf-bail-reference-concept.png` | 早期生成圖只保留作金色小扣比例參考；現已更正 M023 為獨立單件。 |
+| M026 | 概念圖：銀色 huggie 灰墨彎牌耳墜 | `concept-renders/M026/M026-silver-huggie-curved-plaque-earrings-concept.png` | 根據 2026-08-17 生成；M026 仍未拋光取回，概念只作形態和系列方向 review。 |
+| M026 | 概念圖：灰墨彎牌情侶吊咀一對 | `concept-renders/M026/M026-silver-couple-curved-plaque-pendants-v1.png` | 由 huggie 耳墜方向改成一對獨立情侶項鏈吊咀；左右鏡像玉牌各配 925 銀包頂扣，左邊扣頭較厚身、右邊較幼身，保留同系列細黑線細節。待拋光取回後需確認頂部厚度是否可做包頂/夾扣而不另鑽孔。 |
+| M026 | 概念圖：合體月牙/抽象心情侶吊咀 | `concept-renders/M026/M026-couple-symbol-crescent-heart-pendants-v1.png` | 方向 1；兩隻獨立吊咀分開佩戴，合埋時內弧形成抽象月牙/心形符號。設計較乾淨，故事清楚，但仍偏保守，可再加強合體後的符號感。 |
+| M026 | 概念圖：黑銀對比情侶吊咀 | `concept-renders/M026/M026-couple-black-silver-contrast-pendants-v1.png` | 方向 3；左黑銠/氧化銀、右亮銀，同一包頂扣形但反色處理，陰陽/夜霧感較強，最易落地問價。需確認黑色鏈和扣頭鍍色耐磨。 |
+| M026 | 概念圖：金屬線延伸玉紋情侶吊咀 | `concept-renders/M026/M026-couple-metal-vein-line-pendants-v1.png` | 方向 4；用幼銀/黑銀線由扣頭延伸落玉面，呼應本身黑紋，像水墨線條轉成金屬。設計感強，但工藝較難，需問貼面/嵌線是否穩固和會否刮手。 |
+| M026 | 概念圖：護身符牙形脊線情侶吊咀 | `concept-renders/M026/M026-couple-talisman-fang-spine-pendants-v1.png` | 方向 6；用氧化銀包頂、側邊脊線和短刻痕，做成 talisman/牙形護身符感。記憶點最強、較中性，但金屬件較多，需控制重量和保留玉面。 |
+| M026 | 概念圖：上下反轉雙月牙單吊咀 | `concept-renders/M026/M026-combined-opposite-double-crescent-pendant-v1.png` | 將兩片彎牌合成一隻吊咀，上下反轉排列，中間用銀扣連接。方向清楚，但中間扣位較普通，像兩件料串接，需再強化成一件完整設計。 |
+| M026 | 概念圖：中軸雙牙護身符單吊咀 | `concept-renders/M026/M026-combined-opposite-spine-talisman-pendant-v2.png` | 較推薦；兩片彎牌上下反轉靠近中軸，用 925 銀脊柱和夾扣固定，形成雙月牙/雙牙 talisman。故事和記憶點強，但要問工場中軸背托、夾扣厚度和整件重量。 |
+| M011 | 氧化銀耳勾款 | `concept-renders/M011/product-05-oxidized-silver-ear-hook-slot-drop.png` | 比 huggie 輕身，冷感較明顯，適合日常低調款。 |
+| M012 | 銀色 true bezel 壓邊小吊墜 | `concept-renders/M012/product-05-silver-true-bezel-lip.png` | 已將金屬 lip 微微覆蓋玉面邊緣，較清楚表達係真 bezel 壓邊固定，不是單純外框。 |
+| M012 | 黑色 true bezel 壓邊小吊墜 | `concept-renders/M012/product-06-black-true-bezel-lip.png` | 黑邊呼應玉內黑紋，並以壓邊 lip 表達固定結構；需留意氧化/電鍍磨損露色。 |
+| M012 | 配戴預想：銀色全包邊上頸 | `concept-renders/M012/worn-01-full-silver-bezel-necklace.png` | 展示小吊墜上頸比例；製作時要確認係真 bezel 壓邊加底托，而唔係只做外框。 |
 
 ## 加工優先次序
 
