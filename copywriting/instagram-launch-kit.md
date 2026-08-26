@@ -279,6 +279,8 @@ Hong Kong based. Worldwide enquiries welcome.
 
 不要在沒有內容時建立空白 Highlights。按以下次序逐步開啟：
 
+加工報價、QC、售價和材質披露未確認前，IG 只發布品牌、Process 和 Jade 101 內容；`Available` Highlight 要等第一輪 SKU 已確認後才建立。加工報價執行清單見 `trackers/processing-quotes-and-ig-next.md`。
+
 | 次序 | Highlight | 內容 | 何時建立 |
 | --- | --- | --- | --- |
 | 1 | `Start Here` | 品牌定位、如何查詢、品牌承諾 | 第一週 |
