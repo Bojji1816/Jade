@@ -1,6 +1,6 @@
 # 第一輪定價 SKU 攝影狀態
 
-最後更新：2026-08-25
+最後更新：2026-08-26
 狀態：Active checklist
 
 用途：只追蹤已定 Launch 價的作品，確認是否已有可上架產品相，以及下一步要補拍甚麼。
@@ -16,13 +16,13 @@
 
 | 編號 | Launch 價 | 目前素材 | 攝影概念圖 | 攝影狀態 | 下一步要補拍 |
 | --- | --- | --- | --- | --- | --- |
-| M002 | HK$1588 | 有入貨主圖及尺寸圖；買入時已配扣頭及鏈 | 有：`output/product-photography/M002-flow-v1` | 待成品QC後拍 | 白底正面、黑/白衫上頸、扣頭/吊環近鏡、鏈質感、側面厚度、透光、禮盒照 |
-| M003 | HK$1288 | 有入貨主圖及尺寸圖；未確認最終繩/鏈配搭 | 未見 product-photography flow；有 `output/pdf/assets/M003-shoot.png` | 待配件/QC後拍 | 黑蠟繩/皮繩及銀鏈兩種 styling、男裝黑 Tee/白 Tee、手持比例、側面厚度、孔位近鏡 |
+| M002 | HK$1588 | 有入貨主圖及尺寸圖；已配 925 銀鏈，鏈成本20 CNY | 有：`output/product-photography/M002-flow-v1` | 待成品QC後拍 | 白底正面、黑/白衫上頸、925銀鏈及扣頭/吊環近鏡、鏈質感、側面厚度、透光、禮盒照 |
+| M003 | HK$1288 | 有入貨主圖及尺寸圖；已定配 316L 不銹鋼復古色鏈 | 未見 product-photography flow；有 `output/pdf/assets/M003-shoot.png` | 可安排正式拍攝 | 男裝黑 Tee/白 Tee、316L復古色鏈近鏡、手持比例、側面厚度、孔位與鏈環接駁近鏡、上頸重心 |
 | M004 | HK$388 | 有完成小腳繩相 `images/finished/M004-finished-baby-anklet-IMG_6262.JPG` | 有：`output/product-photography/M004-flow-v1` | 部分完成 | 成品平鋪、繩結近鏡、調節位/尾繩、玉件孔位近鏡、尺寸比例、禮物包裝照；先完成 BB 佩戴安全 QC |
 | M010 | HK$888 | 有入貨主圖及尺寸圖；已記錄晶韵珠寶鑲嵌成本 | 未見 product-photography flow；只有設計概念圖 `trackers/concept-renders/M010` | 可安排正式拍攝 | 成品白底、深綠花近鏡、中孔接駁位、耳勾/接圈近鏡、黑衫/白衫上耳、與 M009 系列照 |
 | M011 | HK$788 | 有入貨主圖、尺寸圖及福小琪出貨單；已確認 925 銀電鍍黑 | 未見 product-photography flow；只有設計概念圖 `trackers/concept-renders/M011` | 可安排正式拍攝 | 成品白底、黑 Tee/白 Tee 上耳、中性穿搭、耳勾/接圈近鏡、鍍黑表面近鏡、灰黑紋理、與 M003 呼應照 |
 | M012 | HK$1288 | 有入貨主圖、尺寸圖及福小琪出貨單；已確認 925 銀電鍍黑 | 有：`output/product-photography/M012-flow` 及 `output/product-photography/M012-flow-v2` | 可安排正式拍攝 | 可用 v2 做拍攝方向：標準白底、冷調 editorial、smoky bezel texture、unisex 上頸比例；仍需補真實成品相、背面及側面 |
-| M013 | HK$888 | 有入貨主圖及尺寸圖；未確認扣頭/繩/鏈方案 | 未見 product-photography flow | 待配件/QC後拍 | 先決定簡單扣頭、charm 扣或黑繩；之後補白底商品照、上頸/手持比例、側面厚度、扣頭承重近鏡 |
+| M013 | HK$888 | 有入貨主圖及尺寸圖；已配 925 銀鏈，鏈成本20 CNY | 未見 product-photography flow | 可安排正式拍攝 | 白底商品照、925銀鏈及扣位近鏡、上頸/手持比例、側面厚度、扣頭承重及重心 |
 
 ## 今週拍攝優先次序
 
@@ -30,7 +30,7 @@
 2. M010、M011：已鑲嵌但未有 product-photography flow；先按設計概念圖補攝影方向，然後影完整產品相和配戴相。
 3. M002：已有 product-photography flow；若扣頭、鏈和重心 QC 合格，即排主力項鏈攝影。
 4. M004：已有 product-photography flow；補安全 QC 細節相，未過安全 QC 前只做禮物/客訂參考內容。
-5. M003、M013：先定繩/鏈/扣頭方案，再拍正式上架相。
+5. M003、M013：配件已定，可補正式上架相；M013 要特別影厚度、扣位承重和上頸重心。
 
 ## 已有 Product Photography Flow
 
