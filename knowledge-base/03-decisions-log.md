@@ -1,6 +1,6 @@
 # 決策紀錄
 
-最後更新：2026-08-20
+最後更新：2026-08-27
 狀態：Active project；Brand identity final v1.0
 
 ## 使用方法
@@ -54,6 +54,30 @@ Final digital brand kit：`output/brand/final-assets/afterglow-jade/`。
 狀態：視覺方向已更新；盒型、內尺寸、雙層結構、工藝、物料及 HK$30 成本仍待實物樣盒確認。
 
 覆核時間：收到供應商規格及 AFTERGLOW 包裝樣盒後。
+
+### 2026-08-27：圓環拉手磁吸盒列入候選
+
+紀錄：新增供應商 90 x 90 x 35 mm 圓環拉手磁吸盒作主力盒候選。供應商表示尺寸可訂製，盒面可加壓字 Logo；參考圖已保存於 `output/brand/packaging-references/ring-pull-box-vendor/`。
+
+現階段判斷：天然纖維紙、可重用硬盒、壓字及圓環開盒動作符合 AFTERGLOW 的細緻手作感，但圓環會增加 rustic 感及混合物料。若要同時收納 80 x 70 mm 超纖袋、活動托及身份卡，90 x 90 x 35 mm 仍需確認實際內尺寸；優先詢價 100 x 100 x 40 mm，另比較 105 x 95 x 40 mm。
+
+Logo 原則：纖維紙壓字先使用 approved `AFTERGLOW` wordmark-only artwork，不壓完整 primary lockup，避免地平線、中文字及幼細 descriptor 失真。
+
+狀態：候選，未取代 120 x 90 x 40 mm 側開書型盒。待 MOQ、開版費、樣板費、內尺寸、雙層內托、圓環物料及 HK$30 成本可行性確認。
+
+覆核時間：收到供應商報價及兩款實物樣盒後。
+
+### 2026-08-27：超纖飾品袋首選視覺方向
+
+決定：暫定採用閉合尺寸橫 80 x 直 70 mm 的信封式超纖飾品袋，以 Warm white 外蓋配 Pale jade 前袋；封口維持自然覆蓋，不加磁石、按扣、魔術貼或抽繩。Charcoal 外蓋配 Warm white 前袋降為後備配色。
+
+設計細節：袋由淡玉綠直口前袋及米白背面連翻蓋兩塊布構成。閉合正面比例以米白約 80%、淡玉綠約 20% 為目標。波浪是米白翻蓋唯一的自由邊：閉合時位於正面下方，打開後位於米白翻蓋最頂部；淡玉綠袋口及中間接合位置保持平直。外蓋使用細小無色盲壓 `AFTERGLOW` wordmark，波浪低位加入無色盲壓半圓太陽，直徑較早期版本放大約 2 倍，呼應 AFTERGLOW approved Logo 的地平線及餘光。壓字只靠壓平超纖毛向及凹凸陰影顯示，不印色、不燙金；袋面不放中文名、完整 primary lockup、descriptor 或 tagline。
+
+概念圖：`output/brand/packaging-concepts/afterglow-microfiber-pouch-charcoal-sunset-wave-v2.png`。
+
+狀態：暫定視覺首選，概念圖為 `output/brand/packaging-concepts/afterglow-microfiber-pouch-80x70-sun-2x-v10.png`；待超纖色卡、波浪裁邊、盲壓、掉毛、移色及放入首飾盒的實物樣板確認。
+
+覆核時間：收到超纖袋樣板並完成首飾及盒內試放後。
 
 ### 2026-08-07：首階段鑲嵌材質策略
 

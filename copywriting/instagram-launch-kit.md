@@ -1,6 +1,6 @@
 # AFTERGLOW JADE Instagram Launch Kit
 
-最後更新：2026-08-19
+最後更新：2026-08-30
 狀態：Ready to publish v1.0
 用途：Instagram Profile、第一篇帖文、置頂帖、Highlights 和首輪內容
 
@@ -292,6 +292,33 @@ Hong Kong based. Worldwide enquiries welcome.
 | 7 | `Reviews` | 真實回饋和佩戴照片 | 有第一批客評後 |
 
 Highlight cover 使用 Warm white 背景配 approved horizon、材質形狀或簡單文字，不另創一套圖示風格。
+
+## 目前 IG 模式：非銷售內容先行
+
+現階段 IG 不直接賣貨，不開 `Available` Highlight，不公開完整上架清單。內容先集中建立品牌感、透明度和信任，等正式產品相、QC、材質披露和商品頁文案齊備後才進入銷售節奏。
+
+### 優先發佈內容
+
+| 次序 | 內容 | 目的 | 可用素材 |
+| --- | --- | --- | --- |
+| 1 | 品牌起點 Carousel | 說明 AFTERGLOW 為甚麼做現代翡翠 | 多件不同玉色/紋理並置、品牌視覺 |
+| 2 | Process Stories | 展示選料、配鏈、鑲嵌、QC 過程 | M002、M003、M011、M012、M013 工作照 |
+| 3 | Jade 101 | 教育天然棉、石紋、色差、透光度 | 微距、透光、不同光線對比 |
+| 4 | Jade, shown honestly | 建立披露標準 | 正面、背面、側面、材質和尺寸示範 |
+| 5 | Photography Behind the Scenes | 告訴觀眾正式上架前要先拍清楚 | product-photography flow、桌面拍攝、灰卡/自然光 |
+
+### 暫時避免
+
+- 不出 `Available now`、`Shop now`、`DM to buy`。
+- 不公開未完成正式攝影的完整價格表。
+- 不用過度銷售字眼形容天然翡翠，例如「完美」、「零瑕疵」、「保值必入」。
+- 不把概念圖包裝成實物成品照；概念圖只可標示為設計或拍攝方向參考。
+
+### 今週 IG 三步
+
+1. 發品牌第一篇 Carousel：`No two alike. Just like us.`
+2. 發 3-5 組 Process Stories：選料、配鏈、M011/M012 鑲嵌 QC、攝影準備。
+3. 發一篇 Jade 101：天然翡翠的棉、石紋、色差和透光度，連接到統一披露文案。
 
 ## 首 9 格結構
 

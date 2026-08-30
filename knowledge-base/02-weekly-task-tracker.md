@@ -1,7 +1,7 @@
 # 每週任務追蹤
 
-最後更新：2026-08-20
-狀態：Draft v0.8
+最後更新：2026-08-30
+狀態：Active v0.9
 
 ## 當前焦點
 
@@ -16,8 +16,8 @@
 - 鑲嵌材質策略已收窄：首階段以 S925 銀為主，按顏色和價位需要再加鍍金。
 - 品牌名稱已確認為 `AFTERGLOW JADE`，中文名為 `巧翠`，Instagram handle 為 `@afterglow.jade`，tagline 為 `A quiet glow that stays.`。
 - Instagram page `@afterglow.jade` 已建立，final 頭像和 Bio 已上線，目前未發布首篇帖文。
-- 包裝結構目標為 120 x 90 x 40 mm 白色磁吸書型盒，配作品身份卡、可揭展示托和底層信封翻蓋絨毛袋；AFTERGLOW 視覺及實物樣盒仍待確認。
-- IG 小批量啟動計劃、Profile、Pinned Posts、Highlights 和 DM/WhatsApp 文案已有初版。
+- 包裝結構正在比較 120 x 90 x 40 mm 側開磁吸書型盒與圓環拉手磁吸盒；超纖飾品袋暫定 80 x 70 mm Warm white + Pale jade 方向，待樣板確認。
+- IG 小批量啟動計劃、Profile、Pinned Posts、Highlights 和 DM/WhatsApp 文案已有初版；現階段改為先做非銷售內容，不開 Available Highlight。
 - 耳環成本及毛利粗算已建立於 `trackers/earring-cost-margin.md`，鑲嵌耳環價格帶需上調。
 - 入貨 checklist v0.1 已建立於 `knowledge-base/10-purchasing-checklist.md`。
 - 第一次四會入貨復盤已建立於 `trackers/2026-07-sihui-first-trip-review.md`，並補入毛料拋光風險和已鑲嵌成品風格判斷。
@@ -32,13 +32,14 @@
 - 購買須知和保養須知初版已建立於 `copywriting/purchase-notes.md` 和 `copywriting/care-notes.md`，可作 FAQ / Care / Delivery / Return 初稿基礎。
 
 本週優先：
-- 用成品 QC checklist 檢查 M004、M007、M008、M009、M010、M011，先分為可上架、需修改、學習樣本、不上架。
+- 完成 launch candidates 的正式攝影排期：M002、M003、M004、M010、M011、M012、M013；M011/M012 已有鑲嵌 QC 更新，M002/M003 暫無問題。
+- 用成品 QC checklist 補完 M004、M009、M010、M013；先分為可上架、需修改、學習樣本、不上架。
 - 補 M013-M025 的加工方向、目標售價和是否進入第一輪上架候選。
 - 跟進 M026-M028 拋光取回，補尺寸、照片、QC 和是否適合灰墨/黃翡/飄綠耳飾系列。
 - 為 M014、M015、M020、M021、M023 問工場/師傅報價，確認厚度、扣頭承托、包邊可行性和鍍金方案。
-- 選出第一輪 3-5 件上架候選，優先考慮 M002、M004、M007、M009、M014/M015 中最成熟的款。
+- 第一輪 launch candidates 暫定 M002、M003、M004、M010、M011、M012、M013；訂好價後先進入正式攝影，不急於銷售帖。
 - 將 `purchase-notes.md` 和 `care-notes.md` 精簡成 IG Highlight / FAQ 版本。
-- 完成 IG profile 下一步：聯絡入口、第一篇品牌定位帖、Start Here / Available Highlights。
+- 完成 IG profile 下一步：聯絡入口、第一篇品牌定位帖、Start Here / Process Highlights；Available Highlight 暫停，等正式產品相、QC、材質披露和商品頁文案齊備後才開。
 
 ## Week 1：明料盤點
 
@@ -174,7 +175,7 @@
 任務：
 - [x] 確認 working brand name。
 - [x] 更新 moodboard，定下照片、包裝、顏色和字體方向。
-- [ ] 建立 IG/網站基礎頁面。備註：IG page `@afterglow.jade` 已建立，final 頭像和 Bio 已上線；置頂帖、Highlights、聯絡入口和網站仍待完成。
+- [ ] 建立 IG/網站基礎頁面。備註：IG page `@afterglow.jade` 已建立，final 頭像和 Bio 已上線；IG 先做非銷售內容，置頂帖、Start Here、Process、聯絡入口和網站仍待完成，Available 暫停。
 - [ ] 建立 FAQ 初版：天然翡翠/A貨、證書、保養、運送、退換、尺寸、送禮。備註：購買須知和保養須知已有初版，仍需整理成 FAQ 格式。
 - [ ] 確認香港交收/寄送、海外寄送初步政策、退換和瑕疵處理原則。備註：購買須知已有退換和開箱影片原則，仍需補香港/海外運送細節。
 - [ ] 確認包裝方案：結構方向已定，待 AFTERGLOW 視覺、供應商規格、樣盒、成本及保護測試後完成。
