@@ -1,7 +1,7 @@
 # AFTERGLOW JADE Instagram Launch Kit
 
 最後更新：2026-08-30
-狀態：Ready to publish v1.0
+狀態：Ready to publish v1.1
 用途：Instagram Profile、第一篇帖文、置頂帖、Highlights 和首輪內容
 
 ## Profile
@@ -319,6 +319,341 @@ Highlight cover 使用 Warm white 背景配 approved horizon、材質形狀或�
 1. 發品牌第一篇 Carousel：`No two alike. Just like us.`
 2. 發 3-5 組 Process Stories：選料、配鏈、M011/M012 鑲嵌 QC、攝影準備。
 3. 發一篇 Jade 101：天然翡翠的棉、石紋、色差和透光度，連接到統一披露文案。
+
+## 非銷售 IG Drafts
+
+用途：以下內容可以先發，不提售價、不開售、不用 `DM to buy`。目標是建立品牌、透明度和翡翠教育內容。
+
+### Post 1：品牌起點 Carousel
+
+格式：5 頁 Carousel
+狀態：可作第一篇 pinned post
+
+Slide 1：
+
+```text
+No two alike.
+Just like us.
+
+我們都是獨一無二的，
+翡翠亦然。
+```
+
+Slide 2：
+
+```text
+翡翠不是一種
+完全一致的綠。
+
+它有深淺、有紋理、
+有棉、有光。
+```
+
+Slide 3：
+
+```text
+每一件天然翡翠，
+都由時間慢慢形成。
+
+沒有兩件會一模一樣。
+```
+
+Slide 4：
+
+```text
+AFTERGLOW Jade｜巧翠
+
+我們選擇有個性的天然翡翠，
+再依照每件玉本身的形態、
+色澤和重量去設計。
+```
+
+Slide 5：
+
+```text
+Natural jade.
+One of one.
+
+萬晶成翠，
+萬歷成我。
+```
+
+Caption：
+
+```text
+No two alike. Just like us.
+
+天然翡翠最吸引人的地方，不是每一件都一樣，而是每一件都有自己的色澤、紋理和光。
+
+有些溫柔清淡，有些帶深色飄花；有些透光，有些像一幅小小的墨色畫。
+
+AFTERGLOW Jade｜巧翠 會少量選取天然 A 貨翡翠，依照每件玉本身的形態、比例和佩戴感去設計。
+
+我們不追求把天然特徵修飾成完美一致，而是希望清楚呈現它原本的樣子。
+
+Natural jade · One of one
+```
+
+Hashtags：
+
+```text
+#AfterglowJade #巧翠 #翡翠首飾 #香港翡翠 #JadeJewellery #ModernJade
+```
+
+### Post 2：Jade 101 Carousel
+
+格式：4-5 頁 Carousel
+主題：天然翡翠的棉、石紋、色差和透光度
+
+Slide 1：
+
+```text
+Jade 101
+
+天然翡翠，
+為甚麼每件都不同？
+```
+
+Slide 2：
+
+```text
+棉絮、石紋、色根、
+礦點、冰絲，
+都可以是天然翡翠的特徵。
+
+它們不一定是瑕疵。
+```
+
+Slide 3：
+
+```text
+同一件翡翠，
+在日光、室內光、
+背光和不同螢幕下，
+顏色都可能有分別。
+```
+
+Slide 4：
+
+```text
+所以正式上架前，
+我們會盡量拍：
+
+正面、背面、側面、
+近鏡、透光、
+以及佩戴比例。
+```
+
+Slide 5：
+
+```text
+We show jade as it is.
+
+看清楚，
+才決定它是不是屬於你。
+```
+
+Caption：
+
+```text
+天然翡翠每件都有不同棉絮、石紋、色根、礦點、冰絲、顏色深淺及透光度，屬天然特徵，並非瑕疵。
+
+相片會因光線及螢幕有色差，請以實物為準。
+
+這也是為甚麼 AFTERGLOW 之後每件作品都會盡量提供不同角度和光線的照片：我們希望你看到的不只是「漂亮的一面」，而是更接近實物的整體狀態。
+
+Jade, shown honestly.
+```
+
+### Post 3：Jade, Shown Honestly
+
+格式：Carousel 或單張置頂帖
+主題：品牌披露標準
+
+Slide 1：
+
+```text
+Jade, shown honestly.
+```
+
+Slide 2：
+
+```text
+天然翡翠會有天然特徵。
+
+我們不會用「零瑕疵」
+去形容天然材質。
+```
+
+Slide 3：
+
+```text
+每件作品上架前，
+我們會記錄：
+
+尺寸、材質、正反面、
+側面、近鏡和佩戴比例。
+```
+
+Slide 4：
+
+```text
+925 銀會自然氧化。
+鍍金、鍍色或氧化銀配件
+會因日常佩戴逐漸褪色。
+
+這些都需要保養，
+亦屬正常使用痕跡。
+```
+
+Slide 5：
+
+```text
+不是把翡翠拍成完美，
+而是把它拍得清楚。
+
+AFTERGLOW Jade｜巧翠
+```
+
+Caption：
+
+```text
+Jade, shown honestly.
+
+我們希望每件翡翠都被清楚看見，而不是只被拍成一張完美的相。
+
+天然翡翠每件都有不同棉絮、石紋、色根、礦點、冰絲、顏色深淺及透光度，屬天然特徵，並非瑕疵。相片會因光線及螢幕有色差，請以實物為準。
+
+金屬部分亦一樣需要如實說明：925 銀會隨空氣、汗水及濕氣自然氧化，需要定期保養。鍍金、鍍色或氧化銀配件會因摩擦、汗水及日常佩戴逐漸褪色，屬正常使用痕跡。
+
+我們會在正式上架前補齊細節相、佩戴比例和材質資料，讓每一件作品都有足夠清楚的紀錄。
+```
+
+### Stories Set 1：Process / 鑲嵌回來後
+
+Story 1：
+
+```text
+最近幾件小作品剛完成鑲嵌。
+正式上架前，我們會先做 QC。
+```
+
+Story 2：
+
+```text
+會檢查甚麼？
+
+扣頭是否穩實
+接圈是否安全
+背面和側面是否乾淨
+佩戴時會否反面或側翻
+```
+
+Story 3：
+
+```text
+有些材質也要先確認披露方式。
+
+例如 925 銀電鍍黑：
+顏色效果很好，
+但日常佩戴有機會慢慢褪色。
+```
+
+Story 4：
+
+```text
+所以現階段先記錄過程，
+不急著開售。
+
+先看清楚，
+再決定如何呈現。
+```
+
+Highlight：`Process`
+
+### Stories Set 2：Photography Before Available
+
+Story 1：
+
+```text
+正式開售前，
+我們會先補一輪產品攝影。
+```
+
+Story 2：
+
+```text
+每件作品至少需要：
+
+正面
+背面
+側面
+近鏡
+上身 / 上耳比例
+材質細節
+```
+
+Story 3：
+
+```text
+天然翡翠很受光線影響。
+
+一張相不夠，
+要用不同角度和光線慢慢看。
+```
+
+Story 4：
+
+```text
+Available 會遲一點。
+
+現在先把每件作品
+拍清楚、記清楚。
+```
+
+Highlight：`Process`
+
+### Stories Set 3：Jade 101 / 天然特徵
+
+Story 1：
+
+```text
+Jade 101
+
+天然翡翠常見的棉、紋、色差，
+是不是瑕疵？
+```
+
+Story 2：
+
+```text
+不一定。
+
+棉絮、石紋、色根、礦點、
+冰絲和透光度差異，
+很多時候都是天然特徵。
+```
+
+Story 3：
+
+```text
+我們會盡量用近鏡和透光相
+把這些位置拍出來。
+
+不是遮住，
+是讓你知道它真實的樣子。
+```
+
+Story 4：
+
+```text
+每件天然翡翠都是 one of one。
+
+看得越清楚，
+越知道自己喜歡的是甚麼。
+```
+
+Highlight：`Jade 101`
 
 ## 首 9 格結構
 
